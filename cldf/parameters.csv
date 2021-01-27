@@ -1,0 +1,206 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_body,body,,,1
+2_head,head,,,2
+3_eye,eye,,,3
+4_earhole,earhole,,,4
+5_hairfeather,hair/feather,,,5
+6_mouth,mouth,,,6
+7_lip,lip,,,7
+8_beard,beard,,,8
+9_tongue,tongue,,,9
+10_nose,nose,,,10
+11_bone,bone,,,11
+12_back,back,,,12
+14_breast,breast,,,14
+15_chest,chest,,,15
+16_heart,heart,,,16
+17_liver,liver,,,17
+18_blood,blood,,,18
+19_flesh,flesh,,,19
+20_veins,Veins,,,20
+21_buttocks,buttocks,,,21
+22_leg,leg,,,22
+23_thigh,thigh,,,23
+24_knee,knee,,,24
+25_shin,shin,,,25
+26_foot,foot,,,26
+27_arm,arm,,,27
+28_elbow,elbow,,,28
+29_hand,hand,,,29
+30_neck,neck,,,30
+31_skin,skin,,,31
+32_navel,navel,,,32
+33_tail,tail,,,33
+34_wing,wing,,,34
+35_egg,egg,,,35
+36_feces,feces,,,36
+37_fart,fart,,,37
+38_urine,urine,,,38
+39_fat,fat,,,39
+40_name,name,,,40
+41_house,house,,,41
+42_village,village,,,42
+43_nest,nest,,,43
+44_path,path,,,44
+45_path2,path2,,,45
+46_bow,bow,,,46
+47_arrow,arrow,,,47
+48_rope,rope,,,48
+49_canoe,canoe,,,49
+50_raft,raft,,,50
+51_person,person,,,51
+52_spiritsoul,spirit/soul,,,52
+53_man,man,,,53
+54_woman,woman,,,54
+55_father,father,,,55
+56_father2,father2,,,56
+57_mother,mother,,,57
+58_mother2,mother2,,,58
+59_son,son,,,59
+60_daughter,daughter,,,60
+61_grandson,grandson,,,61
+62_granddaughter,granddaughter,,,62
+63_fatherinlaw,father-in-law,,,63
+64_motherinlaw,mother-in-law,,,64
+65_nephewniece,nephew/niece,,,65
+66_youngerbrother,younger brother,,,66
+67_youngersister,younger sister,,,67
+68_grandmother,grandmother,,,68
+69_grandfather,grandfather,,,69
+70_pet,pet,,,70
+71_pacarodentsp,paca (rodent sp.),,,71
+72_capybara,capybara,,,72
+73_rat,rat,,,73
+74_agouti,agouti,,,74
+75_coati,coati,,,75
+76_peccarysp1,peccary (sp.)1,,,76
+77_peccarysp2,peccary (sp.)2,,,77
+78_anteater,anteater,,,78
+79_tapir,tapir,,,79
+80_capuchinmonkey,Capuchin monkey,,,80
+81_howlermonkey,howler monkey>,,,81
+82_sloth,sloth,,,82
+83_snake,snake,,,83
+84_boa,boa,,,84
+85_alligator,alligator,,,85
+86_turtle,turtle,,,86
+87_ant,ant,,,87
+88_isulaantsp,isula (ant sp.),,,88
+89_termite,termite,,,89
+90_wasp,wasp,,,90
+91_mosquito,mosquito,,,91
+92_beehoney,bee/honey,,,92
+93_fly,fly,,,93
+94_butterfly,butterfly,,,94
+95_cockroach,cockroach,,,95
+96_spider,spider,,,96
+97_scorpion,scorpion,,,97
+98_tick,tick,,,98
+99_louse,louse,,,99
+100_worm1,worm1,,,100
+101_worm2,worm2,,,101
+102_fishgeneric,fish (generic),,,102
+103_piranafishsp,piraña (fish sp.),,,103
+104_crab,crab,,,104
+105_bat,bat,,,105
+106_birdsp1,bird (sp.)1,,,106
+107_birdsp2,bird (sp.)2,,,107
+108_birdsp3,bird (sp.)3,,,108
+109_hummingbird,hummingbird,,,109
+110_duck,duck,,,110
+111_eagle,eagle,,,111
+112_owl,owl,,,112
+113_tree,tree,,,113
+114_palmsp,palm (sp.),,,114
+115_cane,cane,,,115
+116_branch,branch,,,116
+117_woodstick,"wood, stick",,,117
+118_seed,seed,,,118
+119_shellhusk,shell/husk,,,119
+120_flower,flower,,,120
+121_leaf,Leaf,,,121
+122_coca,Coca,,,122
+123_sweetpotato,sweet potato,,,123
+124_bittermanioc,bitter manioc,,,124
+125_manioc,manioc,,,125
+126_maize,maize,,,126
+127_smokedmeat,smoked (meat),,,127
+128_pepper,pepper,,,128
+129_achiote,achiote,,,129
+130_medicine,medicine,,,130
+131_sun,sun,,,131
+132_moon,moon,,,132
+133_night,night,,,133
+134_yesterday,yesterday,,,134
+135_wind,wind,,,135
+136_rainbow,rainbow,,,136
+137_lake,lake,,,137
+138_water,water,,,138
+139_rain,rain,,,139
+140_firefirewood,fire/firewood,,,140
+141_firefirewood2,fire/firewood2,,,141
+142_hole,hole,,,142
+143_stone,stone,,,143
+144_pain,pain,,,144
+145_tobehave,to be/have,,,145
+146_toarrive,to arrive,,,146
+147_tocome,to come,,,147
+148_toreturn,to return,,,148
+149_towalk,to walk,,,149
+150_topass,to pass,,,150
+151_tostep,to step,,,151
+152_togrow,to grow,,,152
+153_tosing,to sing,,,153
+154_toeat,to eat,,,154
+155_toswallow,to swallow,,,155
+156_tosay,to say,,,156
+157_tospeak,to speak,,,157
+158_tocommand,to command,,,158
+159_tocall,to call,,,159
+160_tobreathe,to breathe,,,160
+161_towash1,to wash1,,,161
+162_towash2,to wash2,,,162
+163_toswim,to swim,,,163
+164_tobath,to bath,,,164
+165_toplantput,to plant/put,,,165
+166_todig,to dig,,,166
+167_topeel,to peel,,,167
+168_tohear,to hear,,,168
+169_tosee,to see,,,169
+170_tolearn,to learn,,,170
+171_tofear,to fear,,,171
+172_tosleep,to sleep,,,172
+173_toliedown,to lie down,,,173
+174_todie,to die,,,174
+175_tokill,to kill,,,175
+176_tocook,to cook,,,176
+177_toroast,to roast,,,177
+178_togrind,to grind,,,178
+179_tofetch,to fetch,,,179
+180_tosew,to sew,,,180
+181_pregnant,pregnant,,,181
+182_hungry,hungry,,,182
+183_shy,shy,,,183
+184_hot,hot,,,184
+185_cold,cold,,,185
+186_wet,wet,,,186
+187_dry,dry,,,187
+188_new,new,,,188
+189_heavy,heavy,,,189
+190_above,above,,,190
+191_below,below,,,191
+192_coremiddle,core/middle,,,192
+193_two,two,,,193
+194_three,three,,,194
+195_clliquid,cl.liquid,,,195
+196_clcylindrical,cl.cylindrical,,,196
+197_gendermasc,gender.masc,,,197
+198_genderfem,gender.fem,,,198
+199_progressive,progressive,,,199
+200_iterative,iterative,,,200
+201_intensive,intensive,,,201
+202_intensifier,intensifier,,,202
+203_causverblzr,caus/verblzr,,,203
+204_adjectivizer,adjectivizer,,,204
+205_verbalizer,verbalizer,,,205
+206_absolute,absolute,,,206

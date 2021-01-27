@@ -1,0 +1,116 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+$	NULL				
+*po-/*pu- 	p o	*po-/*pu- 	Inapari	1	U+002a U+0070 U+006f U+002d U+002f U+002a U+0070 U+0075 U+002d U+0020
+-	+	hi-ʃa-pto , hitu-ré-hɨ-ti 	Inapari, Yine, Apurina, ProtoPurus	100	U+002d
+-(h)erẽka 	e r ẽ k a	-(h)erẽka 	Apurina	1	U+002d U+0028 U+0068 U+0029 U+0065 U+0072 U+1ebd U+006b U+0061 U+0020
+-(h)iwãka 	i w ã k a	-(h)iwãka 	Apurina	1	U+002d U+0028 U+0068 U+0029 U+0069 U+0077 U+00e3 U+006b U+0061 U+0020
+-(h)ãkɨ-pa 	ã k ɨ + p a	-(h)ãkɨ-pa 	Apurina	1	U+002d U+0028 U+0068 U+0029 U+00e3 U+006b U+0268 U+002d U+0070 U+0061 U+0020
+-eta[ma] 	e t a	-eta[ma] 	Apurina	1	U+002d U+0065 U+0074 U+0061 U+005b U+006d U+0061 U+005d U+0020
+-ro ~ -lo 		-ro ~ -lo 	Yine	1	U+002d U+0072 U+006f U+0020 U+007e U+0020 U+002d U+006c U+006f U+0020
+-rɨ ~ -lɨ 		-rɨ ~ -lɨ 	Yine	1	U+002d U+0072 U+0268 U+0020 U+007e U+0020 U+002d U+006c U+0268 U+0020
+-çema / -çem-lɨ 		-çema / -çem-lɨ 	Yine	1	U+002d U+00e7 U+0065 U+006d U+0061 U+0020 U+002f U+0020 U+002d U+00e7 U+0065 U+006d U+002d U+006c U+0268 U+0020
+-ʧa[hi]		-ʧa[hi]	Inapari	1	U+002d U+02a7 U+0061 U+005b U+0068 U+0069 U+005d
+O	O/o	erOka, pO-hɨno-rɨ	ProtoPurus	3	U+004f
+O$	O/o	sɨtiO, pO	ProtoPurus	3	U+004f U+0024
+V$	V/ə	tukanV	ProtoPurus	1	U+0056 U+0024
+^[hi]tpo 	h i t p o	[hi]tpo 	Yine	1	U+005b U+0068 U+0069 U+005d U+0074 U+0070 U+006f U+0020
+[	NULL
+]	NULL
+^ɨ̃ɨ̃wɨ	ɨ̃ɨ̃/ɨ̃ w ɨ
+^	NULL				
+^*	NULL	*po- 	Apurina	1	U+005e U+002a
+^a	a	-apɨ , ahɨró-ti 	Inapari, Apurina, ProtoPurus	46	U+005e U+0061
+^a$	a	a- 	Inapari	1	U+005e U+0061 U+0024
+^e	e	epɨ-ro, epi 	ProtoPurus, Apurina, Inapari	10	U+005e U+0065
+^h	h	hi-ʃa-pto , himakɨ	Yine, Inapari, ProtoPurus	100	U+005e U+0068
+^i	i	i-ʔuʧa-má-ri , i-ʧaraa-má-ri 	Inapari, Apurina, ProtoPurus, Yine	30	U+005e U+0069
+^j	j	jutúro , jaka	ProtoPurus, Yine, Inapari, Apurina	18	U+005e U+006a
+^k	k	kajatɨ , koʧi 	ProtoPurus, Apurina, Yine	100	U+005e U+006b
+^ks	k s	ksɨrɨ 	Yine	1	U+005e U+006b U+0073
+^kʃ	k ʃ	kʃi , kʃijoçrɨ 	Yine	2	U+005e U+006b U+0283
+^m	m	meriti, mapa	ProtoPurus, Inapari, Apurina, Yine	50	U+005e U+006d
+^n	n	-nama , -nanɨ 	ProtoPurus, Apurina, Inapari, Yine	30	U+005e U+006e
+^o	o	opai , -okɨ 	Apurina, Inapari	6	U+005e U+006f
+^p	p	-pika , parikare	ProtoPurus, Inapari, Yine, Apurina	75	U+005e U+0070
+^r	r	-rɨ , -ro 	Inapari, Yine, ProtoPurus, Apurina	41	U+005e U+0072
+^s	s	sanɨ , sima	ProtoPurus, Yine, Apurina	27	U+005e U+0073
+^t	t	-ta, ta	ProtoPurus, Inapari, Yine, Apurina	42	U+005e U+0074
+^ts	ts	tsomi , tsina	ProtoPurus, Apurina, Yine	15	U+005e U+0074 U+0073
+^u	u	utí , uhɨ́-ʧa-ti 	Inapari	8	U+005e U+0075
+^w	w	wara	ProtoPurus	1	U+005e U+0077
+^ã	ã	ãpɨkɨrɨ , ãamɨna 	Apurina	3	U+005e U+00e3
+^ã$	ã	-ã , ã- 	Apurina, Inapari	2	U+005e U+00e3 U+0024
+^ç	ç	çipalɨ , -çnako-pna 	Yine	9	U+005e U+00e7
+^ú	ú/u	úna 	Inapari	1	U+005e U+00fa
+^ĩĩ$	ĩː	ĩĩ 	Apurina	1	U+005e U+0129 U+0129 U+0024
+^ɨ	ɨ	ɨna, ɨkɨnɨ	Apurina, ProtoPurus, Inapari	19	U+005e U+0268
+^ɲ	ɲ	-ɲika 	Apurina	1	U+005e U+0272
+^ʃ	ʃ	ʃijo-kɨ , ʃiãpoto 	Apurina, Yine	9	U+005e U+0283
+^ʃw	ʃ w	ʃwejlɨ 	Yine	1	U+005e U+0283 U+0077
+^ʧ	tʃ	-ʧi , -ʧĩkare 	Inapari, Apurina, Yine	11	U+005e U+02a7
+_	+	hi-hraha /hran-ʧi 	Yine	1	U+005f
+a	a	kanawa , hi-hraha /hran-ʧi 	ProtoPurus, Inapari, Yine, Apurina	100	U+0061
+a$	a	kanawa , -nama 	ProtoPurus, Yine, Apurina, Inapari	100	U+0061 U+0024
+aa	aː	i-ʧaraa-má-ri 	Inapari	1	U+0061 U+0061
+c	c/tʃ	hicici , mrici  	Yine	6	U+0063
+e	e	meriti, kema	ProtoPurus, Yine, Inapari, Apurina	96	U+0065
+e$	e	-mane , parikare	ProtoPurus, Yine, Apurina	20	U+0065 U+0024
+h	h	hi-hraha /hran-ʧi , kapet-hohne 	Inapari, Yine, ProtoPurus	68	U+0068
+hw	hw/hʷ	kahwɨrɨ , hi-hwɨ 	Yine	2	U+0068 U+0077
+i	i	hi-çici , hi-ʃa-pto 	Yine, ProtoPurus, Inapari, Apurina	100	U+0069
+i$	i	koʧi , meriti	Inapari, Yine, ProtoPurus, Apurina	100	U+0069 U+0024
+ii	iː	aɲiio 	Apurina	1	U+0069 U+0069
+ii$	iː	maɲii 	Apurina	1	U+0069 U+0069 U+0024
+j	j	kajatɨ , hi-mekahji 	Inapari, Yine, ProtoPurus, Apurina	37	U+006a
+k	k	parikare, -kenako-kɨ 	ProtoPurus, Apurina, Yine	100	U+006b
+ka-mʃi-ro / mɨʃi-w-lɨ 	<???>	ka-mʃi-ro / mɨʃi-w-lɨ 	Yine	1	U+006b U+0061 U+002d U+006d U+0283 U+0069 U+002d U+0072 U+006f U+0020 U+002f U+0020 U+006d U+0268 U+0283 U+0069 U+002d U+0077 U+002d U+006c U+0268 U+0020
+l	l	palikle-rɨ , hi-wla-lɨ 	Yine	44	U+006c
+lh	lh/l̥	talha-lɨ 	Yine	1	U+006c U+0068
+m	m	r-ɨmɨʔá-ma , i-hama-má 	Inapari, ProtoPurus, Yine, Apurina	100	U+006d
+mh	mh/m̥	tomha-lɨ 	Yine	1	U+006d U+0068
+n	n	-mane , kanawa 	Inapari, ProtoPurus, Yine, Apurina	100	U+006e
+nh	nh/n̥	-tsɨnha 	Yine	1	U+006e U+0068
+nn	n n	hi-nnɨ , hi-nni- 	Yine	2	U+006e U+006e
+o	o	holotɨ , koʧi 	Yine, Apurina, Inapari, ProtoPurus	87	U+006f
+o$	o	hi-ʃa-pto , -kano 	Yine, Apurina, ProtoPurus, Inapari	46	U+006f U+0024
+p	p	hi-ʃa-pto , hi-plo 	Inapari, ProtoPurus, Yine, Apurina	100	U+0070
+pʃ	pʃ	kapʃi , hopʃi 	Yine	2	U+0070 U+0283
+r	r	parikare, pariʔare-ró-ti 	Inapari, ProtoPurus, Apurina, Yine	100	U+0072
+s	s	kasiri, kɨsi 	ProtoPurus, Inapari, Apurina, Yine	17	U+0073
+t	t	uta-tí , hitu-ré-hɨ-ti 	Inapari, ProtoPurus, Apurina, Yine	100	U+0074
+th	tʰ	pɨthana	Yine	1	U+0074 U+0068
+ts	ts	natsi, katsuparɨ 	ProtoPurus, Yine, Apurina	22	U+0074 U+0073
+tsh	tsʰ	jotsha-lɨ 	Yine	1	U+0074 U+0073 U+0068
+u	u	hurutɨ, mutu-tí 	ProtoPurus, Inapari, Apurina	91	U+0075
+u$	u	muju, sɨtu	ProtoPurus, Yine	21	U+0075 U+0024
+w	w	kanawa , pate-wa-ta 	Yine, ProtoPurus, Inapari, Apurina	33	U+0077
+wh	wh/w̥	hipowha 	Yine	1	U+0077 U+0068
+á	á/a	potejá-má-ri , i-ʔuʧa-má-ri 	Inapari	48	U+00e1
+á$	á/a	humá , hiná 	Inapari	14	U+00e1 U+0024
+áá	áá/aː	ɨráá-ti , i-tumáá-ri 	Inapari	3	U+00e1 U+00e1
+ã	ã	ʃiãpoto , kãkɨtɨ 	Apurina	4	U+00e3
+ã$	ã	ɨpowã , hipuã 	Apurina, Inapari	2	U+00e3 U+0024
+ãã	ãː	i-jutãã-rá-ma 	Inapari	1	U+00e3 U+00e3
+ã́$	ã́/ã	muã́ 	Inapari	1	U+00e3 U+0301 U+0024
+ç	ç	hi-çici , kʃijoçrɨ 	Yine	22	U+00e7
+é	é/e	hiréʔa, hitu-ré-hɨ-ti 	Inapari	5	U+00e9
+í	í/i	hapísíri , pariʔare-rí-ti 	Inapari	24	U+00ed
+í$	í/i	utí , uta-tí 	Inapari	37	U+00ed U+0024
+íí$	íí/iː	apíí 	Inapari	1	U+00ed U+00ed U+0024
+ó	ó/o	ahɨró-ti , pariʔare-ró-ti 	Inapari	3	U+00f3
+ú	ú/u	i-púʔú-ri , r-apúʔa-ma	Inapari, ProtoPurus	21	U+00fa
+ú$	ú/u	amirú , hanijú 	Inapari, Apurina	6	U+00fa U+0024
+ĩ	ĩ	-ʧĩkare , ka-ʧĩka-re-rɨ 	Apurina	2	U+0129
+ĩ́$	ĩ́/ĩ	maneĩ́ 	Inapari	1	U+0129 U+0301 U+0024
+ɨ	ɨ	-imatɨkɨ-rɨ , sɨpɨrɨ	ProtoPurus, Inapari, Apurina, Yine	100	U+0268
+ɨ$	ɨ	patɨ , kajatɨ 	ProtoPurus, Apurina, Yine, Inapari	100	U+0268 U+0024
+ɨɨ	ɨː	pɨɨnorɨ 	Inapari	1	U+0268 U+0268
+ɨ́	ɨ́/ɨ	ahɨ́-pa-ti , aáwɨ́rɨ 	Inapari	14	U+0268 U+0301
+ɨ́$	ɨ́/ɨ	aɨrɨ́ , ehɨ́	Inapari	4	U+0268 U+0301 U+0024
+ɨ̃	ɨ̃/ɨ̃	ɨpɨ̃-pe , sɨ̃pɨrɨ 	Apurina	2	U+0268 U+0303
+ɲ	ɲ	maɲii , -mekaɲi-rɨ 	Apurina	6	U+0272
+ʃ	ʃ	hi-ʃa-pto , kapiʃi 	Yine, Apurina	8	U+0283
+ʔ	ʔ	i-niʔuruʔa-má-ri, rɨ-ʧaʔa-ma 	Inapari	35	U+0294
+ʧ	tʃ	kaʧiʧi , hiʧiʧí 	Inapari, Yine, Apurina, ProtoPurus	63	U+02a7
+ṹ	ṹ	rɨ-ʔunṹa-ma 	Inapari	1	U+1e79
+ẽ	ẽ	kẽʧi , irẽka	Apurina	2	U+1ebd
