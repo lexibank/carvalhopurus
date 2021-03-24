@@ -23,9 +23,9 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognacy:** 731 cognates in 206 cognate sets (0 singletons)
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
-- **Tokens:** 4,447
-- **Segments:** 56 (0 BIPA errors, 0 CTLS sound class errors, 56 CLTS modified)
-- **Inventory size (avg):** 28.50
+- **Tokens:** 4,346
+- **Segments:** 55 (0 BIPA errors, 0 CTLS sound class errors, 55 CLTS modified)
+- **Inventory size (avg):** 28.25
 
 ## Possible Improvements:
 

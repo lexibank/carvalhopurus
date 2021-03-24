@@ -1,31 +1,31 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Concept_in_Source,Value_in_Source
 ProtoPurus-1_body-1,,ProtoPurus,1_body,*-mane,mane,m a n e,,Carvalho2021,,,^m a n e$,default,,
 Inapari-1_body-1,,Inapari,1_body,maná-ʔa-ti ,maná-ʔa-ti,m a n á/a + ʔ a + t i,,,,,^m a n á - ʔ a - t i$,default,,maná-ʔa-ti (P95:38)
-Apurina-1_body-1,,Apurina,1_body,-mane ,-mane,+ m a n e,,,,,^ - m a n e$,default,,-mane (F00:264)
-Yine-1_body-1,,Yine,1_body,-mane ,-mane,+ m a n e,,,,,^ - m a n e$,default,,-mane (N86:143)
+Apurina-1_body-1,,Apurina,1_body,-mane ,-mane,m a n e,,,,,^- m a n e$,default,,-mane (F00:264)
+Yine-1_body-1,,Yine,1_body,-mane ,-mane,m a n e,,,,,^- m a n e$,default,,-mane (N86:143)
 ProtoPurus-2_head-1,,ProtoPurus,2_head,*-kɨwɨ,kɨwɨ,k ɨ w ɨ,,Carvalho2021,,,^k ɨ w ɨ$,default,,
 Inapari-2_head-1,,Inapari,2_head,hɨwɨ́-ti ,hɨwɨ́-ti,h ɨ w ɨ́/ɨ + t i,,,,,^h ɨ w ɨ́ - t i$,default,,hɨwɨ́-ti (P95:32)
-Apurina-2_head-1,,Apurina,2_head,-kɨwɨ ,-kɨwɨ,+ k ɨ w ɨ,,,,,^ - k ɨ w ɨ$,default,,-kɨwɨ (F00:649)
-Yine-2_head-1,,Yine,2_head,-çiwɨ ,-çiwɨ,+ ç i w ɨ,,,,,^ - ç i w ɨ$,default,,-çiwɨ (N86:46)
+Apurina-2_head-1,,Apurina,2_head,-kɨwɨ ,-kɨwɨ,k ɨ w ɨ,,,,,^- k ɨ w ɨ$,default,,-kɨwɨ (F00:649)
+Yine-2_head-1,,Yine,2_head,-çiwɨ ,-çiwɨ,ç i w ɨ,,,,,^- ç i w ɨ$,default,,-çiwɨ (N86:46)
 ProtoPurus-3_eye-1,,ProtoPurus,3_eye,*-hokɨ,hokɨ,h o k ɨ,,Carvalho2021,,,^h o k ɨ$,default,,
 Inapari-3_eye-1,,Inapari,3_eye,ohɨ-tí ,ohɨ-tí,o h ɨ + t í/i,,,,,^o h ɨ - t í$,default,,ohɨ-tí (P95:55)
-Apurina-3_eye-1,,Apurina,3_eye,-okɨ ,-okɨ,+ o k ɨ,,,,,^ - o k ɨ$,default,,-okɨ (F00:648)
+Apurina-3_eye-1,,Apurina,3_eye,-okɨ ,-okɨ,o k ɨ,,,,,^- o k ɨ$,default,,-okɨ (F00:648)
 Yine-3_eye-1,,Yine,3_eye,hi-hoçi,hi-hoçi,h i + h o ç i,,,,,^h i - h o ç i$,default,face,hi-hoçi ‘face’ (N86:46)
 ProtoPurus-4_earhole-1,,ProtoPurus,4_earhole,*-kena-ko,kena-ko,k e n a + k o,,Carvalho2021,,,^k e n a - k o$,default,,
 Inapari-4_earhole-1,,Inapari,4_earhole,hanáʔo-ti ,hanáʔo-ti,h a n á/a ʔ o + t i,,,,,^h a n á ʔ o - t i$,default,,hanáʔo-ti (P95:55)
-Apurina-4_earhole-1,,Apurina,4_earhole,-kenako-kɨ ,-kenako-kɨ,+ k e n a k o + k ɨ,,,,,^ - k e n a k o - k ɨ$,default,,-kenako-kɨ (Fe13:82)
-Yine-4_earhole-1,,Yine,4_earhole,-çnako-pna ,-çnako-pna,+ ç n a k o + p n a,,,,,^ - ç n a k o - p n a$,default,,-çnako-pna (N86:47)
+Apurina-4_earhole-1,,Apurina,4_earhole,-kenako-kɨ ,-kenako-kɨ,k e n a k o + k ɨ,,,,,^- k e n a k o - k ɨ$,default,,-kenako-kɨ (Fe13:82)
+Yine-4_earhole-1,,Yine,4_earhole,-çnako-pna ,-çnako-pna,ç n a k o + p n a,,,,,^- ç n a k o - p n a$,default,,-çnako-pna (N86:47)
 ProtoPurus-5_hairfeather-1,,ProtoPurus,5_hairfeather,*-piti,piti,p i t i,,Carvalho2021,,,^p i t i$,default,,
 Inapari-5_hairfeather-1,,Inapari,5_hairfeather,piʧi-tí ,piʧi-tí,p i tʃ i + t í/i,,,,,^p i ʧ i - t í$,default,,piʧi-tí (P95:58)
-Apurina-5_hairfeather-1,,Apurina,5_hairfeather,-piti ,-piti,+ p i t i,,,,,^ - p i t i$,default,,-piti (F00:648)
-Yine-5_hairfeather-1,,Yine,5_hairfeather,-pici ,-pici,+ p i c/tʃ i,,,,,^ - p i c i$,default,,-pici (N86:56)
+Apurina-5_hairfeather-1,,Apurina,5_hairfeather,-piti ,-piti,p i t i,,,,,^- p i t i$,default,,-piti (F00:648)
+Yine-5_hairfeather-1,,Yine,5_hairfeather,-pici ,-pici,p i c/tʃ i,,,,,^- p i c i$,default,,-pici (N86:56)
 ProtoPurus-6_mouth-1,,ProtoPurus,6_mouth,*-nama,nama,n a m a,,Carvalho2021,,,^n a m a$,default,,
 Inapari-6_mouth-1,,Inapari,6_mouth,namá-ti ,namá-ti,n a m á/a + t i,,,,,^n a m á - t i$,default,,namá-ti (P95:31)
-Apurina-6_mouth-1,,Apurina,6_mouth,-nama ,-nama,+ n a m a,,,,,^ - n a m a$,default,,-nama (F00:651)
-Yine-6_mouth-1,,Yine,6_mouth,-nama ,-nama,+ n a m a,,,,,^ - n a m a$,default,,-nama (N86:53)
+Apurina-6_mouth-1,,Apurina,6_mouth,-nama ,-nama,n a m a,,,,,^- n a m a$,default,,-nama (F00:651)
+Yine-6_mouth-1,,Yine,6_mouth,-nama ,-nama,n a m a,,,,,^- n a m a$,default,,-nama (N86:53)
 ProtoPurus-7_lip-1,,ProtoPurus,7_lip,*-potu,potu,p o t u,,Carvalho2021,,,^p o t u$,default,,
 Inapari-7_lip-1,,Inapari,7_lip,potu-maʧá-ti ,potu-maʧá-ti,p o t u + m a tʃ á/a + t i,,,,,^p o t u - m a ʧ á - t i$,default,,potu-maʧá-ti (P95:49)
-Apurina-7_lip-1,,Apurina,7_lip,-poto ,-poto,+ p o t o,,,,,^ - p o t o$,default,,-poto (F00:651)
+Apurina-7_lip-1,,Apurina,7_lip,-poto ,-poto,p o t o,,,,,^- p o t o$,default,,-poto (F00:651)
 Yine-7_lip-1,,Yine,7_lip,hi-ʃa-pto ,hi-ʃa-pto,h i + ʃ a + p t o,,,,,^h i - ʃ a - p t o$,default,beard,hi-ʃa-pto ‘beard’ (N86:63)
 ProtoPurus-8_beard-1,,ProtoPurus,8_beard,*-sia-potu,sia-potu,s i a + p o t u,,Carvalho2021,,,^s i a - p o t u$,default,,
 Inapari-8_beard-1,,Inapari,8_beard,ijapotú-ti ,ijapotú-ti,i j a p o t ú/u + t i,,,,,^i j a p o t ú - t i$,default,,ijapotú-ti (P95:31)
@@ -33,47 +33,47 @@ Apurina-8_beard-1,,Apurina,8_beard,ʃiãpoto ,ʃiãpoto,ʃ i ã p o t o,,,,,^ʃ 
 Yine-8_beard-1,,Yine,8_beard,hi-ʃa-pto ,hi-ʃa-pto,h i + ʃ a + p t o,,,,,^h i - ʃ a - p t o$,default,beard,hi-ʃa-pto ‘beard’ (N86:63)
 ProtoPurus-9_tongue-1,,ProtoPurus,9_tongue,*-nenɨ,nenɨ,n e n ɨ,,Carvalho2021,,,^n e n ɨ$,default,,
 Inapari-9_tongue-1,,Inapari,9_tongue,není-pa-ti ,není-pa-ti,n e n í/i + p a + t i,,,,,^n e n í - p a - t i$,default,,není-pa-ti (P95:49)
-Apurina-9_tongue-1,,Apurina,9_tongue,-nɨnɨ ,-nɨnɨ,+ n ɨ n ɨ,,,,,^ - n ɨ n ɨ$,default,,-nɨnɨ (F00:656)
+Apurina-9_tongue-1,,Apurina,9_tongue,-nɨnɨ ,-nɨnɨ,n ɨ n ɨ,,,,,^- n ɨ n ɨ$,default,,-nɨnɨ (F00:656)
 Yine-9_tongue-1,,Yine,9_tongue,hi-nnɨ ,hi-nnɨ,h i + n n ɨ,,,,,^h i - nn ɨ$,default,,hi-nnɨ (N86:486)
 ProtoPurus-10_nose-1,,ProtoPurus,10_nose,*-kiri,kiri,k i r i,,Carvalho2021,,,^k i r i$,default,,
 Inapari-10_nose-1,,Inapari,10_nose,hirí-ti ,hirí-ti,h i r í/i + t i,,,,,^h i r í - t i$,default,,hirí-ti (P95:54)
-Apurina-10_nose-1,,Apurina,10_nose,-kiri ,-kiri,+ k i r i,,,,,^ - k i r i$,default,,-kiri (F00:652)
+Apurina-10_nose-1,,Apurina,10_nose,-kiri ,-kiri,k i r i,,,,,^- k i r i$,default,,-kiri (F00:652)
 Yine-10_nose-1,,Yine,10_nose,hi-çri ,hi-çri,h i + ç r i,,,,,^h i - ç r i$,default,,hi-çri (N86:47)
 ProtoPurus-11_bone-1,,ProtoPurus,11_bone,*-hapɨ,hapɨ,h a p ɨ,,Carvalho2021,,,^h a p ɨ$,default,,
 Inapari-11_bone-1,,Inapari,11_bone,apɨ-tí ,apɨ-tí,a p ɨ + t í/i,,,,,^a p ɨ - t í$,default,,apɨ-tí (P95:47)
-Apurina-11_bone-1,,Apurina,11_bone,-apɨ ,-apɨ,+ a p ɨ,,,,,^ - a p ɨ$,default,,-apɨ (F00:646)
+Apurina-11_bone-1,,Apurina,11_bone,-apɨ ,-apɨ,a p ɨ,,,,,^- a p ɨ$,default,,-apɨ (F00:646)
 Yine-11_bone-1,,Yine,11_bone,hi-hapɨ ,hi-hapɨ,h i + h a p ɨ,,,,,^h i - h a p ɨ$,default,,hi-hapɨ (N86:45)
 ProtoPurus-12_back-1,,ProtoPurus,12_back,*-takɨ,takɨ,t a k ɨ,,Carvalho2021,,,^t a k ɨ$,default,,
 Inapari-12_back-1,,Inapari,12_back,ʧahɨ́-ti ,ʧahɨ́-ti,tʃ a h ɨ́/ɨ + t i,,,,,^ʧ a h ɨ́ - t i$,default,,ʧahɨ́-ti (P95:42)
 Yine-12_back-1,,Yine,12_back,hi-tçi ,hi-tçi,h i + t ç i,,,,,^h i - t ç i$,default,,hi-tçi (N86:66)
 ProtoPurus-14_breast-1,,ProtoPurus,14_breast,*-tenɨ,tenɨ,t e n ɨ,,Carvalho2021,,,^t e n ɨ$,default,,
-Inapari-14_breast-1,,Inapari,14_breast,-ʧini ,-ʧini,+ tʃ i n i,,,,,^ - ʧ i n i$,default,,-ʧini (P95:65)
-Apurina-14_breast-1,,Apurina,14_breast,-tenɨ ,-tenɨ,+ t e n ɨ,,,,,^ - t e n ɨ$,default,,-tenɨ (F00:646)
+Inapari-14_breast-1,,Inapari,14_breast,-ʧini ,-ʧini,tʃ i n i,,,,,^- ʧ i n i$,default,,-ʧini (P95:65)
+Apurina-14_breast-1,,Apurina,14_breast,-tenɨ ,-tenɨ,t e n ɨ,,,,,^- t e n ɨ$,default,,-tenɨ (F00:646)
 Yine-14_breast-1,,Yine,14_breast,tnɨ-ʧi ,tnɨ-ʧi,t n ɨ + tʃ i,,,,,^t n ɨ - ʧ i$,default,,tnɨ-ʧi (N86:567)
 ProtoPurus-14_breast-2,,ProtoPurus,14_breast,*-tenɨ-kɨ,tenɨ-kɨ,t e n ɨ + k ɨ,,Carvalho2021,,,^t e n ɨ - k ɨ$,default,,
 Inapari-14_breast-2,,Inapari,14_breast,ʧiní-hɨ-ti ,ʧiní-hɨ-ti,tʃ i n í/i + h ɨ + t i,,,,,^ʧ i n í - h ɨ - t i$,default,,ʧiní-hɨ-ti (P95:65)
-Apurina-14_breast-2,,Apurina,14_breast,-tenɨ-kɨ ,-tenɨ-kɨ,+ t e n ɨ + k ɨ,,,,,^ - t e n ɨ - k ɨ$,default,,-tenɨ-kɨ (F00:172)
+Apurina-14_breast-2,,Apurina,14_breast,-tenɨ-kɨ ,-tenɨ-kɨ,t e n ɨ + k ɨ,,,,,^- t e n ɨ - k ɨ$,default,,-tenɨ-kɨ (F00:172)
 ProtoPurus-15_chest-1,,ProtoPurus,15_chest,*-turu-,turu,t u r u,,Carvalho2021,,,^t u r u$,default,,
 Inapari-15_chest-1,,Inapari,15_chest,turú-ʧa-ti ,turú-ʧa-ti,t u r ú/u + tʃ a + t i,,,,,^t u r ú - ʧ a - t i$,default,,turú-ʧa-ti (P95:58)
-Apurina-15_chest-1,,Apurina,15_chest,-toro-ta ,-toro-ta,+ t o r o + t a,,,,,^ - t o r o - t a$,default,,-toro-ta (Fr17:345)
+Apurina-15_chest-1,,Apurina,15_chest,-toro-ta ,-toro-ta,t o r o + t a,,,,,^- t o r o - t a$,default,,-toro-ta (Fr17:345)
 ProtoPurus-16_heart-1,,ProtoPurus,16_heart,*-hakɨ,hakɨ,h a k ɨ,,Carvalho2021,,,^h a k ɨ$,default,,
 Inapari-16_heart-1,,Inapari,16_heart,ahɨ́-pa-ti ,ahɨ́-pa-ti,a h ɨ́/ɨ + p a + t i,,,,,^a h ɨ́ - p a - t i$,default,,ahɨ́-pa-ti (P95:37)
-Apurina-16_heart-1,,Apurina,16_heart,-(h)ãkɨ-pa ,-ãkɨ-pa,+ ã k ɨ + p a,,,,,^ - ã k ɨ - p a$,default,,-(h)ãkɨ-pa (F00:649)
-Yine-16_heart-1,,Yine,16_heart,-haç-ʧi / r-açi ,-haç-ʧi,+ h a ç + tʃ i,,,,,^ - h a ç - ʧ i$,default,,"-haç-ʧi, r-açi (N86:403)"
+Apurina-16_heart-1,,Apurina,16_heart,-(h)ãkɨ-pa ,-ãkɨ-pa,ã k ɨ + p a,,,,,^- ã k ɨ - p a$,default,,-(h)ãkɨ-pa (F00:649)
+Yine-16_heart-1,,Yine,16_heart,-haç-ʧi / r-açi ,-haç-ʧi,h a ç + tʃ i,,,,,^- h a ç - ʧ i$,default,,"-haç-ʧi, r-açi (N86:403)"
 ProtoPurus-17_liver-1,,ProtoPurus,17_liver,*-hupana,hupana,h u p a n a,,Carvalho2021,,,^h u p a n a$,default,,
 Inapari-17_liver-1,,Inapari,17_liver,upaná-ti ,upaná-ti,u p a n á/a + t i,,,,,^u p a n á - t i$,default,,upaná-ti (P95:46)
-Apurina-17_liver-1,,Apurina,17_liver,-opana ,-opana,+ o p a n a,,,,,^ - o p a n a$,default,,-opana (F00:651)
+Apurina-17_liver-1,,Apurina,17_liver,-opana ,-opana,o p a n a,,,,,^- o p a n a$,default,,-opana (F00:651)
 Yine-17_liver-1,,Yine,17_liver,hi-hopna ,hi-hopna,h i + h o p n a,,,,,^h i - h o p n a$,default,,hi-hopna (N86:46)
 ProtoPurus-18_blood-1,,ProtoPurus,18_blood,*-hɨra-ha,hɨra-ha,h ɨ r a + h a,,Carvalho2021,,,^h ɨ r a - h a$,default,,
 Inapari-18_blood-1,,Inapari,18_blood,ɨráá-ti ,ɨráá-ti,ɨ r áá/aː + t i,,,,,^ɨ r áá - t i$,default,,ɨráá-ti (P95:64)
-Apurina-18_blood-1,,Apurina,18_blood,-(h)erẽka ,-erẽka,+ e r ẽ k a,,,,,^ - e r ẽ k a$,default,,-(h)erẽka (F00:646)
+Apurina-18_blood-1,,Apurina,18_blood,-(h)erẽka ,-erẽka,e r ẽ k a,,,,,^- e r ẽ k a$,default,,-(h)erẽka (F00:646)
 Yine-18_blood-1,,Yine,18_blood,hi-hraha /hran-ʧi ,hi-hraha,h i + h r a h a,,,,,^h i - h r a h a$,default,,"hi-hraha, hran-ʧi (N86:554)"
 ProtoPurus-19_flesh-1,,ProtoPurus,19_flesh,*-hɨtɨ,hɨtɨ,h ɨ t ɨ,,Carvalho2021,,,^h ɨ t ɨ$,default,,
 Inapari-19_flesh-1,,Inapari,19_flesh,ɨʧi-tí ,ɨʧi-tí,ɨ tʃ i + t í/i,,,,,^ɨ ʧ i - t í$,default,,ɨʧi-tí (P95:34)
 Yine-19_flesh-1,,Yine,19_flesh,hi-hitɨ ,hi-hitɨ,h i + h i t ɨ,,,,,^h i - h i t ɨ$,default,,hi-hitɨ (N86:390)
 ProtoPurus-20_veins-1,,ProtoPurus,20_veins,*-kutsa,kutsa,k u ts a,,Carvalho2021,,,^k u ts a$,default,,
 Inapari-20_veins-1,,Inapari,20_veins,uta-tí ,uta-tí,u t a + t í/i,,,,,^u t a - t í$,default,,uta-tí (P95:70)
-Apurina-20_veins-1,,Apurina,20_veins,-kotsa ,-kotsa,+ k o ts a,,,,,^ - k o ts a$,default,,-kotsa (Fr17:344)
+Apurina-20_veins-1,,Apurina,20_veins,-kotsa ,-kotsa,k o ts a,,,,,^- k o ts a$,default,,-kotsa (Fr17:344)
 Yine-20_veins-1,,Yine,20_veins,hi-kotsa ,hi-kotsa,h i + k o ts a,,,,,^h i - k o ts a$,default,,hi-kotsa (N86:577)
 ProtoPurus-21_buttocks-1,,ProtoPurus,21_buttocks,*-mutu,mutu,m u t u,,Carvalho2021,,,^m u t u$,default,,
 Inapari-21_buttocks-1,,Inapari,21_buttocks,mutu-tí ,mutu-tí,m u t u + t í/i,,,,,^m u t u - t í$,default,,mutu-tí (P95:54)
@@ -83,7 +83,7 @@ Inapari-22_leg-1,,Inapari,22_leg,ʧaparí-ti ,ʧaparí-ti,tʃ a p a r í/i + t i
 Yine-22_leg-1,,Yine,22_leg,hi-tpali ,hi-tpali,h i + t p a l i,,,,,^h i - t p a l i$,default,his thigh,hi-tpali ‘his thigh’ (N86:67)
 ProtoPurus-23_thigh-1,,ProtoPurus,23_thigh,*-puri,puri,p u r i,,Carvalho2021,,,^p u r i$,default,,
 Inapari-23_thigh-1,,Inapari,23_thigh,purí-na-ti ,purí-na-ti,p u r í/i + n a + t i,,,,,^p u r í - n a - t i$,default,,purí-na-ti (P95:54)
-Apurina-23_thigh-1,,Apurina,23_thigh,-pori-ke ,-pori-ke,+ p o r i + k e,,,,,^ - p o r i - k e$,default,,-pori-ke (Fr17:344)
+Apurina-23_thigh-1,,Apurina,23_thigh,-pori-ke ,-pori-ke,p o r i + k e,,,,,^- p o r i - k e$,default,,-pori-ke (Fr17:344)
 ProtoPurus-24_knee-1,,ProtoPurus,24_knee,*-sukɨ,sukɨ,s u k ɨ,,Carvalho2021,,,^s u k ɨ$,default,,
 Inapari-24_knee-1,,Inapari,24_knee,uhɨ́-ʧa-ti ,uhɨ́-ʧa-ti,u h ɨ́/ɨ + tʃ a + t i,,,,,^u h ɨ́ - ʧ a - t i$,default,,uhɨ́-ʧa-ti (P95:63)
 Yine-24_knee-1,,Yine,24_knee,hi-soçi ,hi-soçi,h i + s o ç i,,,,,^h i - s o ç i$,default,,hi-soçi (N86:549)
@@ -92,37 +92,37 @@ Inapari-25_shin-1,,Inapari,25_shin,parú-ti ,parú-ti,p a r ú/u + t i,,,,,^p a 
 Yine-25_shin-1,,Yine,25_shin,hi-palo-çi ,hi-palo-çi,h i + p a l o + ç i,,,,,^h i - p a l o - ç i$,default,,hi-palo-çi (N86:446)
 ProtoPurus-26_foot-1,,ProtoPurus,26_foot,*-kiti,kiti,k i t i,,Carvalho2021,,,^k i t i$,default,,
 Inapari-26_foot-1,,Inapari,26_foot,hiʧí-pa-ti ,hiʧí-pa-ti,h i tʃ í/i + p a + t i,,,,,^h i ʧ í - p a - t i$,default,,hiʧí-pa-ti (P95:59)
-Apurina-26_foot-1,,Apurina,26_foot,-kiti ,-kiti,+ k i t i,,,,,^ - k i t i$,default,,-kiti (F00:649)
+Apurina-26_foot-1,,Apurina,26_foot,-kiti ,-kiti,k i t i,,,,,^- k i t i$,default,,-kiti (F00:649)
 Yine-26_foot-1,,Yine,26_foot,hi-çici ,hi-çici,h i + ç i c/tʃ i,,,,,^h i - ç i c i$,default,,hi-çici (N86:526)
 ProtoPurus-27_arm-1,,ProtoPurus,27_arm,*-kano,kano,k a n o,,Carvalho2021,,,^k a n o$,default,,
 Inapari-27_arm-1,,Inapari,27_arm,ano-he-tí ,ano-he-tí,a n o + h e + t í/i,,,,,^a n o - h e - t í$,default,,ano-he-tí (P95:75)
-Apurina-27_arm-1,,Apurina,27_arm,-kano ,-kano,+ k a n o,,,,,^ - k a n o$,default,,-kano (F00:156)
-Yine-27_arm-1,,Yine,27_arm,-kano ,-kano,+ k a n o,,,,,^ - k a n o$,default,,-kano (H10:283)
+Apurina-27_arm-1,,Apurina,27_arm,-kano ,-kano,k a n o,,,,,^- k a n o$,default,,-kano (F00:156)
+Yine-27_arm-1,,Yine,27_arm,-kano ,-kano,k a n o,,,,,^- k a n o$,default,,-kano (H10:283)
 ProtoPurus-28_elbow-1,,ProtoPurus,28_elbow,*-hitsu,hitsu,h i ts u,,Carvalho2021,,,^h i ts u$,default,,
 Inapari-28_elbow-1,,Inapari,28_elbow,hitu-ré-hɨ-ti ,hitu-ré-hɨ-ti,h i t u + r é/e + h ɨ + t i,,,,,^h i t u - r é - h ɨ - t i$,default,,hitu-ré-hɨ-ti (P95:36)
 Yine-28_elbow-1,,Yine,28_elbow,hitso-he-re ,hitso-he-re,h i ts o + h e + r e,,,,,^h i ts o - h e - r e$,default,,hitso-he-re (N86:396)
 ProtoPurus-29_hand-1,,ProtoPurus,29_hand,*-muju,muju,m u j u,,Carvalho2021,,,^m u j u$,default,,
 Inapari-29_hand-1,,Inapari,29_hand,mujú-ti ,mujú-ti,m u j ú/u + t i,,,,,^m u j ú - t i$,default,,mujú-ti (P95:52)
-Apurina-29_hand-1,,Apurina,29_hand,-pio ,-pio,+ p i o,,,,,^ - p i o$,default,,-pio (Fr17:344)
+Apurina-29_hand-1,,Apurina,29_hand,-pio ,-pio,p i o,,,,,^- p i o$,default,,-pio (Fr17:344)
 Yine-29_hand-1,,Yine,29_hand,hi-mjo / mjo-ʧi ,hi-mjo,h i + m j o,,,,,^h i - m j o$,default,,"hi-mjo, mjo-ʧi (N86:495)"
 ProtoPurus-30_neck-1,,ProtoPurus,30_neck,*-nu-,nu,n u,,Carvalho2021,,,^n u$,default,,
 Inapari-30_neck-1,,Inapari,30_neck,nu-pi-tí ,nu-pi-tí,n u + p i + t í/i,,,,,^n u - p i - t í$,default,,nu-pi-tí (P95:38)
-Apurina-30_neck-1,,Apurina,30_neck,-no-kɨ / -no-pi ,-no-kɨ,+ n o + k ɨ,,,,,^ - n o - k ɨ$,default,,-no-kɨ (F00:652) -no-pi (F00:652)
+Apurina-30_neck-1,,Apurina,30_neck,-no-kɨ / -no-pi ,-no-kɨ,n o + k ɨ,,,,,^- n o - k ɨ$,default,,-no-kɨ (F00:652) -no-pi (F00:652)
 Yine-30_neck-1,,Yine,30_neck,hi-no-çi / no-ʃ-ʧi,hi-no-çi,h i + n o + ç i,,,,,^h i - n o - ç i$,default,,"hi-no-çi, no-ʃ-ʧi (N86:408)"
 ProtoPurus-31_skin-1,,ProtoPurus,31_skin,*-mata,mata,m a t a,,Carvalho2021,,,^m a t a$,default,,
 Inapari-31_skin-1,,Inapari,31_skin,maʧá-ti ,maʧá-ti,m a tʃ á/a + t i,,,,,^m a ʧ á - t i$,default,,maʧá-ti (P95:93)
-Apurina-31_skin-1,,Apurina,31_skin,-mata ,-mata,+ m a t a,,,,,^ - m a t a$,default,,-mata (F00:654)
+Apurina-31_skin-1,,Apurina,31_skin,-mata ,-mata,m a t a,,,,,^- m a t a$,default,,-mata (F00:654)
 Yine-31_skin-1,,Yine,31_skin,hi-mta ,hi-mta,h i + m t a,,,,,^h i - m t a$,default,,hi-mta (N86:526)
 ProtoPurus-32_navel-1,,ProtoPurus,32_navel,*-puru,puru,p u r u,,Carvalho2021,,,^p u r u$,default,,
 Inapari-32_navel-1,,Inapari,32_navel,purú-hɨ-ti ,purú-hɨ-ti,p u r ú/u + h ɨ + t i,,,,,^p u r ú - h ɨ - t i$,default,,purú-hɨ-ti (P95:99)
 Yine-32_navel-1,,Yine,32_navel,hi-plo ,hi-plo,h i + p l o,,,,,^h i - p l o$,default,,hi-plo (N86:513)
 ProtoPurus-33_tail-1,,ProtoPurus,33_tail,*-si-pi,si-pi,s i + p i,,Carvalho2021,,,^s i - p i$,default,,
 Inapari-33_tail-1,,Inapari,33_tail,ipi-tí ,ipi-tí,i p i + t í/i,,,,,^i p i - t í$,default,,ipi-tí (P95:62)
-Apurina-33_tail-1,,Apurina,33_tail,-ʃipi ,-ʃipi,+ ʃ i p i,,,,,^ - ʃ i p i$,default,,-ʃipi (F00:655)
+Apurina-33_tail-1,,Apurina,33_tail,-ʃipi ,-ʃipi,ʃ i p i,,,,,^- ʃ i p i$,default,,-ʃipi (F00:655)
 Yine-33_tail-1,,Yine,33_tail,hi-nʃi / nʃi-ʧi ,hi-nʃi,h i + n ʃ i,,,,,^h i - n ʃ i$,default,,"hi-nʃi, nʃi-ʧi (N86:56)"
 ProtoPurus-34_wing-1,,ProtoPurus,34_wing,*-mekɨ,mekɨ,m e k ɨ,,Carvalho2021,,,^m e k ɨ$,default,,
 Inapari-34_wing-1,,Inapari,34_wing,mehɨ́-ʧa-pi-ti ,mehɨ́-ʧa-pi-ti,m e h ɨ́/ɨ + tʃ a + p i + t i,,,,,^m e h ɨ́ - ʧ a - p i - t i$,default,,mehɨ́-ʧa-pi-ti (P95:27)
-Apurina-34_wing-1,,Apurina,34_wing,-mekɨ ,-mekɨ,+ m e k ɨ,,,,,^ - m e k ɨ$,default,,-mekɨ (Fe13:90)
+Apurina-34_wing-1,,Apurina,34_wing,-mekɨ ,-mekɨ,m e k ɨ,,,,,^- m e k ɨ$,default,,-mekɨ (Fe13:90)
 Yine-34_wing-1,,Yine,34_wing,hi-meçi ,hi-meçi,h i + m e ç i,,,,,^h i - m e ç i$,default,,hi-meçi (N86:359)
 ProtoPurus-35_egg-1,,ProtoPurus,35_egg,*-nakɨ,nakɨ,n a k ɨ,,Carvalho2021,,,^n a k ɨ$,default,,
 Inapari-35_egg-1,,Inapari,35_egg,a-nahɨ-rɨ́ ,a-nahɨ-rɨ́,a + n a h ɨ + r ɨ́/ɨ,,,,,^a - n a h ɨ - r ɨ́$,default,,a-nahɨ-rɨ́ (P95:74)
@@ -137,21 +137,21 @@ Inapari-37_fart-1,,Inapari,37_fart,ɨhɨnɨ́-ti ,ɨhɨnɨ́-ti,ɨ h ɨ n ɨ́/�
 Yine-37_fart-1,,Yine,37_fart,hiçnɨ-ʧi / r-ɨçnɨ ,hiçnɨ-ʧi,h i ç n ɨ + tʃ i,,,,,^h i ç n ɨ - ʧ i$,default,,"hiçnɨ-ʧi, r-ɨçnɨ (N86:521)"
 ProtoPurus-38_urine-1,,ProtoPurus,38_urine,*-tsɨnɨ-ha,tsɨnɨ-ha,ts ɨ n ɨ + h a,,Carvalho2021,,,^ts ɨ n ɨ - h a$,default,,
 Inapari-38_urine-1,,Inapari,38_urine,tɨnɨ́-ti ,tɨnɨ́-ti,t ɨ n ɨ́/ɨ + t i,,,,,^t ɨ n ɨ́ - t i$,default,,tɨnɨ́-ti (P95:56)
-Apurina-38_urine-1,,Apurina,38_urine,-tsɨnãa ,-tsɨnãa,+ ts ɨ n ã a,,,,,^ - ts ɨ n ã a$,default,,-tsɨnãa (Fr17:344)
-Yine-38_urine-1,,Yine,38_urine,-tsɨnha ,-tsɨnha,+ ts ɨ nh/n̥ a,,,,,^ - ts ɨ nh a$,default,,-tsɨnha (N86:513)
+Apurina-38_urine-1,,Apurina,38_urine,-tsɨnãa ,-tsɨnãa,ts ɨ n ã a,,,,,^- ts ɨ n ã a$,default,,-tsɨnãa (Fr17:344)
+Yine-38_urine-1,,Yine,38_urine,-tsɨnha ,-tsɨnha,ts ɨ nh/n̥ a,,,,,^- ts ɨ nh a$,default,,-tsɨnha (N86:513)
 ProtoPurus-39_fat-1,,ProtoPurus,39_fat,*-ihi,ihi,i h i,,Carvalho2021,,,^i h i$,default,,
 Apurina-39_fat-1,,Apurina,39_fat,ĩĩ ,ĩĩ,ĩː,,,,,^ĩĩ$,default,,ĩĩ (BF07:126)
 Yine-39_fat-1,,Yine,39_fat,ç-hi-rɨ,ç-hi-rɨ,ç + h i + r ɨ,,,,,^ç - h i - r ɨ$,default,greasy,ç-hi-rɨ ‘greasy’ (N86:462) < *ka-ihi-rɨ
 ProtoPurus-40_name-1,,ProtoPurus,40_name,*-hɨwaka,hɨwaka,h ɨ w a k a,,Carvalho2021,,,^h ɨ w a k a$,default,,
 Inapari-40_name-1,,Inapari,40_name,ɨwáʔa-ti ,ɨwáʔa-ti,ɨ w á/a ʔ a + t i,,,,,^ɨ w á ʔ a - t i$,default,,ɨwáʔa-ti (P95:55)
-Apurina-40_name-1,,Apurina,40_name,-(h)iwãka ,-iwãka,+ i w ã k a,,,,,^ - i w ã k a$,default,,-(h)iwãka (F00:652)
-Yine-40_name-1,,Yine,40_name,-hiwaka / hiwak-ʧi ,-hiwaka,+ h i w a k a,,,,,^ - h i w a k a$,default,,"-hiwaka, hiwak-ʧi (N86:509)"
+Apurina-40_name-1,,Apurina,40_name,-(h)iwãka ,-iwãka,i w ã k a,,,,,^- i w ã k a$,default,,-(h)iwãka (F00:652)
+Yine-40_name-1,,Yine,40_name,-hiwaka / hiwak-ʧi ,-hiwaka,h i w a k a,,,,,^- h i w a k a$,default,,"-hiwaka, hiwak-ʧi (N86:509)"
 ProtoPurus-41_house-1,,ProtoPurus,41_house,*-pana,pana,p a n a,,Carvalho2021,,,^p a n a$,default,,
 Inapari-41_house-1,,Inapari,41_house,pana-tí ,pana-tí,p a n a + t í/i,,,,,^p a n a - t í$,default,,pana-tí (P95:34)
 Yine-41_house-1,,Yine,41_house,pan-ʧi ,pan-ʧi,p a n + tʃ i,,,,,^p a n - ʧ i$,default,,pan-ʧi (N86:390)
 ProtoPurus-42_village-1,,ProtoPurus,42_village,*-puku,puku,p u k u,,Carvalho2021,,,^p u k u$,default,,
 Inapari-42_village-1,,Inapari,42_village,i-púʔú-ri ,i-púʔú-ri,i + p ú/u ʔ ú/u + r i,,,,,^i - p ú ʔ ú - r i$,default,,i-púʔú-ri (P95:61)
-Apurina-42_village-1,,Apurina,42_village,-awa-poko ,-awa-poko,+ a w a + p o k o,,,,,^ - a w a - p o k o$,default,,-awa-poko (F00:387)
+Apurina-42_village-1,,Apurina,42_village,-awa-poko ,-awa-poko,a w a + p o k o,,,,,^- a w a - p o k o$,default,,-awa-poko (F00:387)
 Yine-42_village-1,,Yine,42_village,pok-ʧi ,pok-ʧi,p o k + tʃ i,,,,,^p o k - ʧ i$,default,,pok-ʧi (N86:536)
 ProtoPurus-43_nest-1,,ProtoPurus,43_nest,*sijari,sijari,s i j a r i,,Carvalho2021,,,^s i j a r i$,default,,
 Inapari-43_nest-1,,Inapari,43_nest,ijári-ti ,ijári-ti,i j á/a r i + t i,,,,,^i j á r i - t i$,default,,ijári-ti (P95:54)
@@ -160,7 +160,7 @@ ProtoPurus-44_path-1,,ProtoPurus,44_path,*hatɨnɨ,hatɨnɨ,h a t ɨ n ɨ,,Carva
 Inapari-44_path-1,,Inapari,44_path,haʧiní ,haʧiní,h a tʃ i n í/i,,,,,^h a ʧ i n í$,default,,haʧiní (P95:33)
 Yine-44_path-1,,Yine,44_path,hatnɨ-hapo / r-atnɨ-hapo-te ,hatnɨ-hapo,h a t n ɨ + h a p o,,,,,^h a t n ɨ - h a p o$,default,,"hatnɨ-hapo, r-atnɨ-hapo-te (N86:387)"
 ProtoPurus-45_path2-1,,ProtoPurus,45_path2,*-hapO,hapO,h a p O/o,,Carvalho2021,,,^h a p O$,default,,
-Apurina-45_path2-1,,Apurina,45_path2,-ãpo-rɨ ,-ãpo-rɨ,+ ã p o + r ɨ,,,,,^ - ã p o - r ɨ$,default,,"-ãpo-rɨ (Fr17:217, 427)"
+Apurina-45_path2-1,,Apurina,45_path2,-ãpo-rɨ ,-ãpo-rɨ,ã p o + r ɨ,,,,,^- ã p o - r ɨ$,default,,"-ãpo-rɨ (Fr17:217, 427)"
 Yine-45_path2-1,,Yine,45_path2,hatnɨ-hapo ,hatnɨ-hapo,h a t n ɨ + h a p o,,,,,^h a t n ɨ - h a p o$,default,,hatnɨ-hapo (N86:387)
 ProtoPurus-46_bow-1,,ProtoPurus,46_bow,*tapu,tapu,t a p u,,Carvalho2021,,,^t a p u$,default,,
 Inapari-46_bow-1,,Inapari,46_bow,ʧapú-ri ,ʧapú-ri,tʃ a p ú/u + r i,,,,,^ʧ a p ú - r i$,default,,ʧapú-ri (P95:29)
@@ -171,7 +171,7 @@ Inapari-47_arrow-1,,Inapari,47_arrow,haári,haári,h a á/a r i,,,,,^h a á r i$
 Yine-47_arrow-1,,Yine,47_arrow,kaʃri ,kaʃri,k a ʃ r i,,,,,^k a ʃ r i$,default,,kaʃri (N86:454)
 ProtoPurus-48_rope-1,,ProtoPurus,48_rope,*-tsa,tsa,ts a,,Carvalho2021,,,^ts a$,default,,
 Inapari-48_rope-1,,Inapari,48_rope,i-tá ,i-tá,i + t á/a,,,,,^i - t á$,default,,i-tá (P95:83)
-Apurina-48_rope-1,,Apurina,48_rope,-tsa ,-tsa,+ ts a,,,,,^ - ts a$,default,,-tsa (F00:175)
+Apurina-48_rope-1,,Apurina,48_rope,-tsa ,-tsa,ts a,,,,,^- ts a$,default,,-tsa (F00:175)
 Yine-48_rope-1,,Yine,48_rope,hi-tsa ,hi-tsa,h i + ts a,,,,,^h i - ts a$,default,,hi-tsa (N86:559)
 ProtoPurus-49_canoe-1,,ProtoPurus,49_canoe,*kanawa,kanawa,k a n a w a,,Carvalho2021,,,^k a n a w a$,default,,
 Inapari-49_canoe-1,,Inapari,49_canoe,anawá ,anawá,a n a w á/a,,,,,^a n a w á$,default,,anawá (P95:33)
@@ -197,14 +197,14 @@ Apurina-54_woman-1,,Apurina,54_woman,sɨto ,sɨto,s ɨ t o,,,,,^s ɨ t o$,defaul
 Yine-54_woman-1,,Yine,54_woman,sɨco ,sɨco,s ɨ c/tʃ o,,,,,^s ɨ c o$,default,,sɨco (N86:506)
 ProtoPurus-55_father-1,,ProtoPurus,55_father,*-hɨrɨ,hɨrɨ,h ɨ r ɨ,,Carvalho2021,,,^h ɨ r ɨ$,default,,
 Inapari-55_father-1,,Inapari,55_father,ɨrɨ́-ti ,ɨrɨ́-ti,ɨ r ɨ́/ɨ + t i,,,,,^ɨ r ɨ́ - t i$,default,,ɨrɨ́-ti (P95:56)
-Apurina-55_father-1,,Apurina,55_father,-ɨrɨ ,-ɨrɨ,+ ɨ r ɨ,,,,,^ - ɨ r ɨ$,default,,-ɨrɨ (F00:648)
+Apurina-55_father-1,,Apurina,55_father,-ɨrɨ ,-ɨrɨ,ɨ r ɨ,,,,,^- ɨ r ɨ$,default,,-ɨrɨ (F00:648)
 Yine-55_father-1,,Yine,55_father,r-ɨrɨ / hir-ʧi ,r-ɨrɨ,r + ɨ r ɨ,,,,,^r - ɨ r ɨ$,default,,"r-ɨrɨ, hir-ʧi (N86:515)"
 ProtoPurus-56_father2-1,,ProtoPurus,56_father2,*patɨ,patɨ,p a t ɨ,,Carvalho2021,,,^p a t ɨ$,default,,
 Apurina-56_father2-1,,Apurina,56_father2,patɨ ,patɨ,p a t ɨ,,,,,^p a t ɨ$,default,,patɨ (F15: 151)
 Yine-56_father2-1,,Yine,56_father2,patɨ ,patɨ,p a t ɨ,,,,,^p a t ɨ$,default,,patɨ (N86:164)
 ProtoPurus-57_mother-1,,ProtoPurus,57_mother,*-ɨnɨru,ɨnɨru,ɨ n ɨ r u,,Carvalho2021,,,^ɨ n ɨ r u$,default,,
 Inapari-57_mother-1,,Inapari,57_mother,ɨnɨrú-ti ,ɨnɨrú-ti,ɨ n ɨ r ú/u + t i,,,,,^ɨ n ɨ r ú - t i$,default,,ɨnɨrú-ti (P95:51)
-Apurina-57_mother-1,,Apurina,57_mother,-ɨnɨro ,-ɨnɨro,+ ɨ n ɨ r o,,,,,^ - ɨ n ɨ r o$,default,,-ɨnɨro (F00:651)
+Apurina-57_mother-1,,Apurina,57_mother,-ɨnɨro ,-ɨnɨro,ɨ n ɨ r o,,,,,^- ɨ n ɨ r o$,default,,-ɨnɨro (F00:651)
 Yine-57_mother-1,,Yine,57_mother,r-ɨnro ,r-ɨnro,r + ɨ n r o,,,,,^r - ɨ n r o$,default,,r-ɨnro (N86:493)
 ProtoPurus-58_mother2-1,,ProtoPurus,58_mother2,*natu,natu,n a t u,,Carvalho2021,,,^n a t u$,default,,
 Inapari-58_mother2-1,,Inapari,58_mother2,natú ,natú,n a t ú/u,,,,,^n a t ú$,default,,natú (P95:96)
@@ -218,15 +218,15 @@ Inapari-60_daughter-1,,Inapari,60_daughter,itú-ti ,itú-ti,i t ú/u + t i,,,,,^
 Yine-60_daughter-1,,Yine,60_daughter,rɨ-ʃiʧo ,rɨ-ʃiʧo,r ɨ + ʃ i tʃ o,,,,,^r ɨ - ʃ i ʧ o$,default,,rɨ-ʃiʧo (N86:468)
 ProtoPurus-61_grandson-1,,ProtoPurus,61_grandson,*-mekani-rɨ,mekani-rɨ,m e k a n i + r ɨ,,Carvalho2021,,,^m e k a n i - r ɨ$,default,,
 Inapari-61_grandson-1,,Inapari,61_grandson,meʔani-rí-si-ti ,meʔani-rí-si-ti,m e ʔ a n i + r í/i + s i + t i,,,,,^m e ʔ a n i - r í - s i - t i$,default,,meʔani-rí-si-ti (P95:95)
-Apurina-61_grandson-1,,Apurina,61_grandson,-mekaɲi-rɨ ,-mekaɲi-rɨ,+ m e k a ɲ i + r ɨ,,,,,^ - m e k a ɲ i - r ɨ$,default,,-mekaɲi-rɨ (Fe2013:90)
+Apurina-61_grandson-1,,Apurina,61_grandson,-mekaɲi-rɨ ,-mekaɲi-rɨ,m e k a ɲ i + r ɨ,,,,,^- m e k a ɲ i - r ɨ$,default,,-mekaɲi-rɨ (Fe2013:90)
 Yine-61_grandson-1,,Yine,61_grandson,hi-mekahji ,hi-mekahji,h i + m e k a h j i,,,,,^h i - m e k a h j i$,default,,hi-mekahji (N86:509)
 ProtoPurus-62_granddaughter-1,,ProtoPurus,62_granddaughter,*-mekani-ro,mekani-ro,m e k a n i + r o,,Carvalho2021,,,^m e k a n i - r o$,default,,
 Inapari-62_granddaughter-1,,Inapari,62_granddaughter,meʔani-ró-hɨ-ti ,meʔani-ró-hɨ-ti,m e ʔ a n i + r ó/o + h ɨ + t i,,,,,^m e ʔ a n i - r ó - h ɨ - t i$,default,,meʔani-ró-hɨ-ti (P95:95)
-Apurina-62_granddaughter-1,,Apurina,62_granddaughter,-mekaɲi-ro ,-mekaɲi-ro,+ m e k a ɲ i + r o,,,,,^ - m e k a ɲ i - r o$,default,,-mekaɲi-ro (Fe2013:90)
+Apurina-62_granddaughter-1,,Apurina,62_granddaughter,-mekaɲi-ro ,-mekaɲi-ro,m e k a ɲ i + r o,,,,,^- m e k a ɲ i - r o$,default,,-mekaɲi-ro (Fe2013:90)
 Yine-62_granddaughter-1,,Yine,62_granddaughter,to-mekahjo ,to-mekahjo,t o + m e k a h j o,,,,,^t o - m e k a h j o$,default,,to-mekahjo (N86:509)
 ProtoPurus-63_fatherinlaw-1,,ProtoPurus,63_fatherinlaw,*-himatukɨ-,himatukɨ,h i m a t u k ɨ,,Carvalho2021,,,^h i m a t u k ɨ$,default,,
 Inapari-63_fatherinlaw-1,,Inapari,63_fatherinlaw,imatuhɨtí-ri ,imatuhɨtí-ri,i m a t u h ɨ t í/i + r i,,,,,^i m a t u h ɨ t í - r i$,default,,imatuhɨtí-ri (P95:66)
-Apurina-63_fatherinlaw-1,,Apurina,63_fatherinlaw,-imatɨkɨ-rɨ ,-imatɨkɨ-rɨ,+ i m a t ɨ k ɨ + r ɨ,,,,,^ - i m a t ɨ k ɨ - r ɨ$,default,,-imatɨkɨ-rɨ (Fr17:179)
+Apurina-63_fatherinlaw-1,,Apurina,63_fatherinlaw,-imatɨkɨ-rɨ ,-imatɨkɨ-rɨ,i m a t ɨ k ɨ + r ɨ,,,,,^- i m a t ɨ k ɨ - r ɨ$,default,,-imatɨkɨ-rɨ (Fr17:179)
 Yine-63_fatherinlaw-1,,Yine,63_fatherinlaw,himatçi-rɨ / himatçi-r-ʧi ,himatçi-rɨ,h i m a t ç i + r ɨ,,,,,^h i m a t ç i - r ɨ$,default,,"himatçi-rɨ, himatçi-r-ʧi (N86:562)"
 ProtoPurus-64_motherinlaw-1,,ProtoPurus,64_motherinlaw,*-himakɨ-,himakɨ,h i m a k ɨ,,Carvalho2021,,,^h i m a k ɨ$,default,,
 Inapari-64_motherinlaw-1,,Inapari,64_motherinlaw,imahɨ-tí-ro ,imahɨ-tí-ro,i m a h ɨ + t í/i + r o,,,,,^i m a h ɨ - t í - r o$,default,,imahɨ-tí-ro (P95:66)
@@ -238,21 +238,21 @@ ProtoPurus-65_nephewniece-2,,ProtoPurus,65_nephewniece,*-parikare-,parikare,p a 
 Inapari-65_nephewniece-2,,Inapari,65_nephewniece,pariʔare-rí-ti ,pariʔare-rí-ti,p a r i ʔ a r e + r í/i + t i,,,,,^p a r i ʔ a r e - r í - t i$,default,,pariʔare-rí-ti (P95:66)
 ProtoPurus-66_youngerbrother-1,,ProtoPurus,66_youngerbrother,*-epɨ-rɨ,epɨ-rɨ,e p ɨ + r ɨ,,Carvalho2021,,,^e p ɨ - r ɨ$,default,,
 Inapari-66_youngerbrother-1,,Inapari,66_youngerbrother,epɨrɨ́-hɨ-ti ,epɨrɨ́-hɨ-ti,e p ɨ r ɨ́/ɨ + h ɨ + t i,,,,,^e p ɨ r ɨ́ - h ɨ - t i$,default,,epɨrɨ́-hɨ-ti (P95:46)
-Apurina-66_youngerbrother-1,,Apurina,66_youngerbrother,-epɨrɨ ,-epɨrɨ,+ e p ɨ r ɨ,,,,,^ - e p ɨ r ɨ$,default,,-epɨrɨ (F00:161)
+Apurina-66_youngerbrother-1,,Apurina,66_youngerbrother,-epɨrɨ ,-epɨrɨ,e p ɨ r ɨ,,,,,^- e p ɨ r ɨ$,default,,-epɨrɨ (F00:161)
 Yine-66_youngerbrother-1,,Yine,66_youngerbrother,r-epɨrɨ ,r-epɨrɨ,r + e p ɨ r ɨ,,,,,^r - e p ɨ r ɨ$,default,,r-epɨrɨ (N86:468)
 ProtoPurus-67_youngersister-1,,ProtoPurus,67_youngersister,*-epɨ-ro,epɨ-ro,e p ɨ + r o,,Carvalho2021,,,^e p ɨ - r o$,default,,
 Inapari-67_youngersister-1,,Inapari,67_youngersister,epɨro-hɨ-ti ,epɨro-hɨ-ti,e p ɨ r o + h ɨ + t i,,,,,^e p ɨ r o - h ɨ - t i$,default,,epɨro-hɨ-ti (P95:46)
 Yine-67_youngersister-1,,Yine,67_youngersister,r-epɨro ,r-epɨro,r + e p ɨ r o,,,,,^r - e p ɨ r o$,default,,r-epɨro (N86:468)
 ProtoPurus-68_grandmother-1,,ProtoPurus,68_grandmother,*-akɨro,akɨro,a k ɨ r o,,Carvalho2021,,,^a k ɨ r o$,default,,
 Inapari-68_grandmother-1,,Inapari,68_grandmother,ahɨró-ti ,ahɨró-ti,a h ɨ r ó/o + t i,,,,,^a h ɨ r ó - t i$,default,,ahɨró-ti (P95:25)
-Apurina-68_grandmother-1,,Apurina,68_grandmother,-akɨro ,-akɨro,+ a k ɨ r o,,,,,^ - a k ɨ r o$,default,,-akɨro (Fr17:167)
+Apurina-68_grandmother-1,,Apurina,68_grandmother,-akɨro ,-akɨro,a k ɨ r o,,,,,^- a k ɨ r o$,default,,-akɨro (Fr17:167)
 Yine-68_grandmother-1,,Yine,68_grandmother,r-açiro ,r-açiro,r + a ç i r o,,,,,^r - a ç i r o$,default,,r-açiro (N86:350)
 ProtoPurus-69_grandfather-1,,ProtoPurus,69_grandfather,*-atukɨrɨ,atukɨrɨ,a t u k ɨ r ɨ,,Carvalho2021,,,^a t u k ɨ r ɨ$,default,,
 Inapari-69_grandfather-1,,Inapari,69_grandfather,atuhɨrɨ́-ti ,atuhɨrɨ́-ti,a t u h ɨ r ɨ́/ɨ + t i,,,,,^a t u h ɨ r ɨ́ - t i$,default,,atuhɨrɨ́-ti (P95:25)
-Apurina-69_grandfather-1,,Apurina,69_grandfather,-atokɨrɨ ,-atokɨrɨ,+ a t o k ɨ r ɨ,,,,,^ - a t o k ɨ r ɨ$,default,,-atokɨrɨ (Fr17:179)
+Apurina-69_grandfather-1,,Apurina,69_grandfather,-atokɨrɨ ,-atokɨrɨ,a t o k ɨ r ɨ,,,,,^- a t o k ɨ r ɨ$,default,,-atokɨrɨ (Fr17:179)
 Yine-69_grandfather-1,,Yine,69_grandfather,r-atçirɨ ,r-atçirɨ,r + a t ç i r ɨ,,,,,^r - a t ç i r ɨ$,default,,r-atçirɨ (N86:350)
 ProtoPurus-70_pet-1,,ProtoPurus,70_pet,*-pɨra,pɨra,p ɨ r a,,Carvalho2021,,,^p ɨ r a$,default,,
-Apurina-70_pet-1,,Apurina,70_pet,-pɨra ,-pɨra,+ p ɨ r a,,,,,^ - p ɨ r a$,default,,-pɨra (Fr17:116)
+Apurina-70_pet-1,,Apurina,70_pet,-pɨra ,-pɨra,p ɨ r a,,,,,^- p ɨ r a$,default,,-pɨra (Fr17:116)
 Yine-70_pet-1,,Yine,70_pet,pra-ʧi ,pra-ʧi,p r a + tʃ i,,,,,^p r a - ʧ i$,default,,pra-ʧi (N86:183)
 ProtoPurus-71_pacarodentsp-1,,ProtoPurus,71_pacarodentsp,*kajatɨ,kajatɨ,k a j a t ɨ,,Carvalho2021,,,^k a j a t ɨ$,default,,
 Inapari-71_pacarodentsp-1,,Inapari,71_pacarodentsp,ajáʧi ,ajáʧi,a j á/a tʃ i,,,,,^a j á ʧ i$,default,,ajáʧi (P95:77)
@@ -272,7 +272,7 @@ Yine-74_agouti-1,,Yine,74_agouti,peçri ,peçri,p e ç r i,,,,,^p e ç r i$,defa
 ProtoPurus-75_coati-1,,ProtoPurus,75_coati,*kapisiri,kapisiri,k a p i s i r i,,Carvalho2021,,,^k a p i s i r i$,default,,
 Inapari-75_coati-1,,Inapari,75_coati,apíí ,apíí,a p íí/iː,,,,,^a p íí$,default,,apíí (P95:36)
 Apurina-75_coati-1,,Apurina,75_coati,kapiʃi ,kapiʃi,k a p i ʃ i,,,,,^k a p i ʃ i$,default,,kapiʃi (F13:79)
-Yine-75_coati-1,,Yine,75_coati,kapʃi ,kapʃi,k a pʃ i,,,,,^k a pʃ i$,default,,kapʃi (N86:395)
+Yine-75_coati-1,,Yine,75_coati,kapʃi ,kapʃi,k a p ʃ i,,,,,^k a pʃ i$,default,,kapʃi (N86:395)
 ProtoPurus-76_peccarysp1-1,,ProtoPurus,76_peccarysp1,*meriti,meriti,m e r i t i,,Carvalho2021,,,^m e r i t i$,default,,
 Inapari-76_peccarysp1-1,,Inapari,76_peccarysp1,meríʧi,meríʧi,m e r í/i tʃ i,,,,,^m e r í ʧ i$,default,sajino,meríʧi ‘sajino’ (P95:95)
 Apurina-76_peccarysp1-1,,Apurina,76_peccarysp1,meriti,meriti,m e r i t i,,,,,^m e r i t i$,default,peccary,meriti ‘peccary’ (F00:108)
@@ -400,7 +400,7 @@ Yine-109_hummingbird-1,,Yine,109_hummingbird,ʃwejlɨ ,ʃwejlɨ,ʃ w e j l ɨ,,,
 ProtoPurus-110_duck-1,,ProtoPurus,110_duck,*hupai,hupai,h u p a i,,Carvalho2021,,,^h u p a i$,default,,
 Inapari-110_duck-1,,Inapari,110_duck,hupaí ,hupaí,h u p a í/i,,,,,^h u p a í$,default,,hupaí (P95:57)
 Apurina-110_duck-1,,Apurina,110_duck,opai ,opai,o p a i,,,,,^o p a i$,default,,opai (F00:622)
-Yine-110_duck-1,,Yine,110_duck,hopʃi ,hopʃi,h o pʃ i,,,,,^h o pʃ i$,default,,hopʃi (N86:520)
+Yine-110_duck-1,,Yine,110_duck,hopʃi ,hopʃi,h o p ʃ i,,,,,^h o pʃ i$,default,,hopʃi (N86:520)
 ProtoPurus-111_eagle-1,,ProtoPurus,111_eagle,*kukui,kukui,k u k u i,,Carvalho2021,,,^k u k u i$,default,,
 Inapari-111_eagle-1,,Inapari,111_eagle,uʔuí ,uʔuí,u ʔ u í/i,,,,,^u ʔ u í$,default,,uʔuí (P95:26)
 Apurina-111_eagle-1,,Apurina,111_eagle,kokoi ,kokoi,k o k o i,,,,,^k o k o i$,default,,kokoi (F00:649)
@@ -421,15 +421,15 @@ Inapari-115_cane-1,,Inapari,115_cane,atarí ,atarí,a t a r í/i,,,,,^a t a r í
 Yine-115_cane-1,,Yine,115_cane,katslɨ ,katslɨ,k a ts l ɨ,,,,,^k a ts l ɨ$,default,,katslɨ (N86:388)
 ProtoPurus-116_branch-1,,ProtoPurus,116_branch,*-purɨ,purɨ,p u r ɨ,,Carvalho2021,,,^p u r ɨ$,default,,
 Inapari-116_branch-1,,Inapari,116_branch,purí ,purí,p u r í/i,,,,,^p u r í$,default,,purí (P95:99)
-Apurina-116_branch-1,,Apurina,116_branch,-porɨ ,-porɨ,+ p o r ɨ,,,,,^ - p o r ɨ$,default,,-porɨ (F00:646)
+Apurina-116_branch-1,,Apurina,116_branch,-porɨ ,-porɨ,p o r ɨ,,,,,^- p o r ɨ$,default,,-porɨ (F00:646)
 Yine-116_branch-1,,Yine,116_branch,hi-plɨ ,hi-plɨ,h i + p l ɨ,,,,,^h i - p l ɨ$,default,,hi-plɨ (N86:56)
 ProtoPurus-117_woodstick-1,,ProtoPurus,117_woodstick,*-ke,ke,k e,,Carvalho2021,,,^k e$,default,,
 Inapari-117_woodstick-1,,Inapari,117_woodstick,ano-he-tí,ano-he-tí,a n o + h e + t í/i,,,,,^a n o - h e - t í$,default,antebrazo,ano-he-tí ‘antebrazo’ (P95:75)
-Apurina-117_woodstick-1,,Apurina,117_woodstick,-ke ,-ke,+ k e,,,,,^ - k e$,default,,-ke (F00:175)
+Apurina-117_woodstick-1,,Apurina,117_woodstick,-ke ,-ke,k e,,,,,^- k e$,default,,-ke (F00:175)
 Yine-117_woodstick-1,,Yine,117_woodstick,hi-çe ,hi-çe,h i + ç e,,,,,^h i - ç e$,default,,hi-çe (N86:516)
 ProtoPurus-118_seed-1,,ProtoPurus,118_seed,*-kɨ,kɨ,k ɨ,,Carvalho2021,,,^k ɨ$,default,,
-Inapari-118_seed-1,,Inapari,118_seed,-raná-hɨ ,-raná-hɨ,+ r a n á/a + h ɨ,,,,,^ - r a n á - h ɨ$,default,,-raná-hɨ (P95:58)
-Apurina-118_seed-1,,Apurina,118_seed,-kɨ ,-kɨ,+ k ɨ,,,,,^ - k ɨ$,default,,-kɨ (F00:171)
+Inapari-118_seed-1,,Inapari,118_seed,-raná-hɨ ,-raná-hɨ,r a n á/a + h ɨ,,,,,^- r a n á - h ɨ$,default,,-raná-hɨ (P95:58)
+Apurina-118_seed-1,,Apurina,118_seed,-kɨ ,-kɨ,k ɨ,,,,,^- k ɨ$,default,,-kɨ (F00:171)
 Yine-118_seed-1,,Yine,118_seed,hi-çi ,hi-çi,h i + ç i,,,,,^h i - ç i$,default,,hi-çi (N86:555)
 ProtoPurus-119_shellhusk-1,,ProtoPurus,119_shellhusk,*-pata,pata,p a t a,,Carvalho2021,,,^p a t a$,default,,
 Inapari-119_shellhusk-1,,Inapari,119_shellhusk, páʧa,páʧa,p á/a tʃ a,,,,,^p á ʧ a$,default,cáscara de maíz,(hisí) páʧa ‘cáscara de maíz’ (P95:35)
@@ -520,22 +520,22 @@ Inapari-144_pain-1,,Inapari,144_pain,atinu-rí ,atinu-rí,a t i n u + r í/i,,,,
 Yine-144_pain-1,,Yine,144_pain,kaʧino-lɨ ,kaʧino-lɨ,k a tʃ i n o + l ɨ,,,,,^k a ʧ i n o - l ɨ$,default,,kaʧino-lɨ (N86:430)
 ProtoPurus-145_tobehave-1,,ProtoPurus,145_tobehave,*-awa,awa,a w a,,Carvalho2021,,,^a w a$,default,,
 Inapari-145_tobehave-1,,Inapari,145_tobehave,r-awa-ma ,r-awa-ma,r + a w a + m a,,,,,^r - a w a - m a$,default,,r-awa-ma (P95:45)
-Apurina-145_tobehave-1,,Apurina,145_tobehave,-awa ,-awa,+ a w a,,,,,^ - a w a$,default,,-awa (F00:292-294)
+Apurina-145_tobehave-1,,Apurina,145_tobehave,-awa ,-awa,a w a,,,,,^- a w a$,default,,-awa (F00:292-294)
 Yine-145_tobehave-1,,Yine,145_tobehave,r-awa ,r-awa,r + a w a,,,,,^r - a w a$,default,,r-awa (N86:465)
 ProtoPurus-146_toarrive-1,,ProtoPurus,146_toarrive,*-apuka,apuka,a p u k a,,Carvalho2021,,,^a p u k a$,default,,
 Inapari-146_toarrive-1,,Inapari,146_toarrive,r-apúʔa-ma,r-apúʔa-ma,r + a p ú/u ʔ a + m a,,,,,^r - a p ú ʔ a - m a$,default,,r-apúʔa-ma
-Apurina-146_toarrive-1,,Apurina,146_toarrive,-apoka ,-apoka,+ a p o k a,,,,,^ - a p o k a$,default,,-apoka (F00:81)
+Apurina-146_toarrive-1,,Apurina,146_toarrive,-apoka ,-apoka,a p o k a,,,,,^- a p o k a$,default,,-apoka (F00:81)
 Yine-146_toarrive-1,,Yine,146_toarrive,hapok-lɨ / r-apoka ,hapok-lɨ,h a p o k + l ɨ,,,,,^h a p o k - l ɨ$,default,,"hapok-lɨ, r-apoka (N86:491)"
 ProtoPurus-147_tocome-1,,ProtoPurus,147_tocome,*-ɨna,ɨna,ɨ n a,,Carvalho2021,,,^ɨ n a$,default,,
 Inapari-147_tocome-1,,Inapari,147_tocome,r-ɨna-ma,r-ɨna-ma,r + ɨ n a + m a,,,,,^r - ɨ n a - m a$,default,,r-ɨna-ma
-Apurina-147_tocome-1,,Apurina,147_tocome,-ɨna ,-ɨna,+ ɨ n a,,,,,^ - ɨ n a$,default,,-ɨna (F00:647)
+Apurina-147_tocome-1,,Apurina,147_tocome,-ɨna ,-ɨna,ɨ n a,,,,,^- ɨ n a$,default,,-ɨna (F00:647)
 Yine-147_tocome-1,,Yine,147_tocome,r-ɨna ,r-ɨna,r + ɨ n a,,,,,^r - ɨ n a$,default,,r-ɨna (N86:577)
 ProtoPurus-148_toreturn-1,,ProtoPurus,148_toreturn,*-satuka,satuka,s a t u k a,,Carvalho2021,,,^s a t u k a$,default,,
 Inapari-148_toreturn-1,,Inapari,148_toreturn,i-atuʔa-pa-má ,i-atuʔa-pa-má,i + a t u ʔ a + p a + m á/a,,,,,^i - a t u ʔ a - p a - m á$,default,,i-atuʔa-pa-má (P95:63)
 Yine-148_toreturn-1,,Yine,148_toreturn,satok-lɨ ,satok-lɨ,s a t o k + l ɨ,,,,,^s a t o k - l ɨ$,default,,satok-lɨ (N86:544)
 ProtoPurus-149_towalk-1,,ProtoPurus,149_towalk,*-jana,jana,j a n a,,Carvalho2021,,,^j a n a$,default,,
 Inapari-149_towalk-1,,Inapari,149_towalk,i-janá-ma ,i-janá-ma,i + j a n á/a + m a,,,,,^i - j a n á - m a$,default,,i-janá-ma (P95:33)
-Apurina-149_towalk-1,,Apurina,149_towalk,-jana ,-jana,+ j a n a,,,,,^ - j a n a$,default,,-jana (F00:308)
+Apurina-149_towalk-1,,Apurina,149_towalk,-jana ,-jana,j a n a,,,,,^- j a n a$,default,,-jana (F00:308)
 Yine-149_towalk-1,,Yine,149_towalk,jan-rɨ / jana ,jan-rɨ,j a n + r ɨ,,,,,^j a n - r ɨ$,default,,"jan-rɨ, jana (N86:387)"
 ProtoPurus-150_topass-1,,ProtoPurus,150_topass,*-kunuha,kunuha,k u n u h a,,Carvalho2021,,,^k u n u h a$,default,,
 Inapari-150_topass-1,,Inapari,150_topass,rɨ-ʔunṹa-ma ,rɨ-ʔunṹa-ma,r ɨ + ʔ u n ṹ a + m a,,,,,^r ɨ - ʔ u n ṹ a - m a$,default,,rɨ-ʔunṹa-ma (P95:57)
@@ -547,21 +547,21 @@ ProtoPurus-152_togrow-1,,ProtoPurus,152_togrow,*-tserɨ-ta,tserɨ-ta,ts e r ɨ +
 Inapari-152_togrow-1,,Inapari,152_togrow,i-terí-ʧa-ma ,i-terí-ʧa-ma,i + t e r í/i + tʃ a + m a,,,,,^i - t e r í - ʧ a - m a$,default,,i-terí-ʧa-ma (P95:38)
 Yine-152_togrow-1,,Yine,152_togrow,i-tserɨ-wa-ta ,i-tserɨ-wa-ta,i + ts e r ɨ + w a + t a,,,,,^i - ts e r ɨ - w a - t a$,default,,i-tserɨ-wa-ta (N86:406)
 ProtoPurus-153_tosing-1,,ProtoPurus,153_tosing,*-sika-,sika,s i k a,,Carvalho2021,,,^s i k a$,default,,
-Apurina-153_tosing-1,,Apurina,153_tosing,-ʃika ,-ʃika,+ ʃ i k a,,,,,^ - ʃ i k a$,default,,-ʃika (F00:654)
-Yine-153_tosing-1,,Yine,153_tosing,-ʃika-l-wa-ta ,-ʃika-l-wa-ta,+ ʃ i k a + l + w a + t a,,,,,^ - ʃ i k a - l - w a - t a$,default,,-ʃika-l-wa-ta (N86:388)
+Apurina-153_tosing-1,,Apurina,153_tosing,-ʃika ,-ʃika,ʃ i k a,,,,,^- ʃ i k a$,default,,-ʃika (F00:654)
+Yine-153_tosing-1,,Yine,153_tosing,-ʃika-l-wa-ta ,-ʃika-l-wa-ta,ʃ i k a + l + w a + t a,,,,,^- ʃ i k a - l - w a - t a$,default,,-ʃika-l-wa-ta (N86:388)
 ProtoPurus-154_toeat-1,,ProtoPurus,154_toeat,*-nika,nika,n i k a,,Carvalho2021,,,^n i k a$,default,,
 Inapari-154_toeat-1,,Inapari,154_toeat,i-niʔá-ma ,i-niʔá-ma,i + n i ʔ á/a + m a,,,,,^i - n i ʔ á - m a$,default,,i-niʔá-ma (P95:36)
-Apurina-154_toeat-1,,Apurina,154_toeat,-ɲika ,-ɲika,+ ɲ i k a,,,,,^ - ɲ i k a$,default,,-ɲika (trans.)
-Yine-154_toeat-1,,Yine,154_toeat,-nika ,-nika,+ n i k a,,,,,^ - n i k a$,default,,-nika (N86:398)
+Apurina-154_toeat-1,,Apurina,154_toeat,-ɲika ,-ɲika,ɲ i k a,,,,,^- ɲ i k a$,default,,-ɲika (trans.)
+Yine-154_toeat-1,,Yine,154_toeat,-nika ,-nika,n i k a,,,,,^- n i k a$,default,,-nika (N86:398)
 ProtoPurus-155_toswallow-1,,ProtoPurus,155_toswallow,*-nikuru-ka,nikuru-ka,n i k u r u + k a,,Carvalho2021,,,^n i k u r u - k a$,default,,
 Inapari-155_toswallow-1,,Inapari,155_toswallow,i-niʔuruʔa-má-ri,i-niʔuruʔa-má-ri,i + n i ʔ u r u ʔ a + m á/a + r i,,,,,^i - n i ʔ u r u ʔ a - m á - r i$,default,,i-niʔuruʔa-má-ri
-Yine-155_toswallow-1,,Yine,155_toswallow,-niklok-lu ,-niklok-lu,+ n i k l o k + l u,,,,,^ - n i k l o k - l u$,default,,-niklok-lu (N86:571)
+Yine-155_toswallow-1,,Yine,155_toswallow,-niklok-lu ,-niklok-lu,n i k l o k + l u,,,,,^- n i k l o k - l u$,default,,-niklok-lu (N86:571)
 ProtoPurus-156_tosay-1,,ProtoPurus,156_tosay,*-tsina,tsina,ts i n a,,Carvalho2021,,,^ts i n a$,default,,
 Inapari-156_tosay-1,,Inapari,156_tosay,i-tiná-ma ,i-tiná-ma,i + t i n á/a + m a,,,,,^i - t i n á - m a$,default,,i-tiná-ma (P95:39)
 Yine-156_tosay-1,,Yine,156_tosay,ʧin-rɨ / -ʧina ,ʧin-rɨ,tʃ i n + r ɨ,,,,,^ʧ i n - r ɨ$,default,,"ʧin-rɨ, -ʧina (N86:415)"
 ProtoPurus-157_tospeak-1,,ProtoPurus,157_tospeak,*-tukanV-,tukanV,t u k a n V/ə,,Carvalho2021,,,^t u k a n V$,default,,
 Inapari-157_tospeak-1,,Inapari,157_tospeak,ri-tuʔána-ma ,ri-tuʔána-ma,r i + t u ʔ á/a n a + m a,,,,,^r i - t u ʔ á n a - m a$,default,,ri-tuʔána-ma (P95:45)
-Yine-157_tospeak-1,,Yine,157_tospeak,-tokanɨ-wa-ta ,-tokanɨ-wa-ta,+ t o k a n ɨ + w a + t a,,,,,^ - t o k a n ɨ - w a - t a$,default,,-tokanɨ-wa-ta (N86:465)
+Yine-157_tospeak-1,,Yine,157_tospeak,-tokanɨ-wa-ta ,-tokanɨ-wa-ta,t o k a n ɨ + w a + t a,,,,,^- t o k a n ɨ - w a - t a$,default,,-tokanɨ-wa-ta (N86:465)
 ProtoPurus-158_tocommand-1,,ProtoPurus,158_tocommand,*-jukana,jukana,j u k a n a,,Carvalho2021,,,^j u k a n a$,default,,
 Inapari-158_tocommand-1,,Inapari,158_tocommand,i-juʔana-má-ri ,i-juʔana-má-ri,i + j u ʔ a n a + m á/a + r i,,,,,^i - j u ʔ a n a - m á - r i$,default,,i-juʔana-má-ri (P95 :56)
 Yine-158_tocommand-1,,Yine,158_tocommand,jokan-rɨ ,jokan-rɨ,j o k a n + r ɨ,,,,,^j o k a n - r ɨ$,default,,jokan-rɨ (N86:513)
@@ -570,7 +570,7 @@ Inapari-159_tocall-1,,Inapari,159_tocall,i-tumáá-ri ,i-tumáá-ri,i + t u m á
 Yine-159_tocall-1,,Yine,159_tocall,tomha-lɨ ,tomha-lɨ,t o mh/m̥ a + l ɨ,,,,,^t o mh a - l ɨ$,default,,tomha-lɨ (N86:490)
 ProtoPurus-160_tobreathe-1,,ProtoPurus,160_tobreathe,*-nani,nani,n a n i,,Carvalho2021,,,^n a n i$,default,,
 Inapari-160_tobreathe-1,,Inapari,160_tobreathe,i-naní-ma ,i-naní-ma,i + n a n í/i + m a,,,,,^i - n a n í - m a$,default,,i-naní-ma (P95:63)
-Yine-160_tobreathe-1,,Yine,160_tobreathe,hi-nni- ,hi-nni-,h i + n n i +,,,,,^h i - nn i - $,default,,hi-nni- (N86:360)
+Yine-160_tobreathe-1,,Yine,160_tobreathe,hi-nni- ,hi-nni-,h i + n n i,,,,,^h i - nn i -$,default,,hi-nni- (N86:360)
 ProtoPurus-161_towash1-1,,ProtoPurus,161_towash1,*-kipa,kipa,k i p a,,Carvalho2021,,,^k i p a$,default,,
 Inapari-161_towash1-1,,Inapari,161_towash1,i-hipá-ma-ri ,i-hipá-ma-ri,i + h i p á/a + m a + r i,,,,,^i - h i p á - m a - r i$,default,,i-hipá-ma-ri (P95:49)
 Apurina-161_towash1-1,,Apurina,161_towash1,kipa ,kipa,k i p a,,,,,^k i p a$,default,,kipa (F00:655)
@@ -579,14 +579,14 @@ Apurina-162_towash2-1,,Apurina,162_towash2,eroka ,eroka,e r o k a,,,,,^e r o k a
 Yine-162_towash2-1,,Yine,162_towash2,t-erka-lɨ ,t-erka-lɨ,t + e r k a + l ɨ,,,,,^t - e r k a - l ɨ$,default,,t-erka-lɨ (N86:486)
 ProtoPurus-163_toswim-1,,ProtoPurus,163_toswim,*-hano-ha,hano-ha,h a n o + h a,,Carvalho2021,,,^h a n o - h a$,default,,
 Inapari-163_toswim-1,,Inapari,163_toswim,r-ano-ʔa-má ,r-ano-ʔa-má,r + a n o + ʔ a + m á/a,,,,,^r - a n o - ʔ a - m á$,default,,r-ano-ʔa-má (P95:54)
-Apurina-163_toswim-1,,Apurina,163_toswim,-noã-ta ,-noã-ta,+ n o ã + t a,,,,,^ - n o ã - t a$,default,,-noã-ta (F00:655)
+Apurina-163_toswim-1,,Apurina,163_toswim,-noã-ta ,-noã-ta,n o ã + t a,,,,,^- n o ã - t a$,default,,-noã-ta (F00:655)
 Yine-163_toswim-1,,Yine,163_toswim,hanoh-lɨ / r-anoha-ta ,hanoh-lɨ,h a n o h + l ɨ,,,,,^h a n o h - l ɨ$,default,,"hanoh-lɨ, r-anoha-ta (N86:507)"
 ProtoPurus-164_tobath-1,,ProtoPurus,164_tobath,*-ka,ka,k a,,Carvalho2021,,,^k a$,default,,
 Inapari-164_tobath-1,,Inapari,164_tobath,i-ʔáá-ma ,i-ʔáá-ma,i + ʔ áá/aː + m a,,,,,^i - ʔ áá - m a$,default,,i-ʔáá-ma (P95:30)
-Yine-164_tobath-1,,Yine,164_tobath,-ka-wa ,-ka-wa,+ k a + w a,,,,,^ - k a - w a$,default,,-ka-wa (N86:377)
+Yine-164_tobath-1,,Yine,164_tobath,-ka-wa ,-ka-wa,k a + w a,,,,,^- k a - w a$,default,,-ka-wa (N86:377)
 ProtoPurus-165_toplantput-1,,ProtoPurus,165_toplantput,*-taka,taka,t a k a,,Carvalho2021,,,^t a k a$,default,,
 Inapari-165_toplantput-1,,Inapari,165_toplantput,rɨ-ʧaʔa-ma ,rɨ-ʧaʔa-ma,r ɨ + tʃ a ʔ a + m a,,,,,^r ɨ - ʧ a ʔ a - m a$,default,,rɨ-ʧaʔa-ma (P95:102)
-Apurina-165_toplantput-1,,Apurina,165_toplantput,-taka,-taka,+ t a k a,,,,,^ - t a k a$,default,to put,-taka ‘to put’ (F00:653)
+Apurina-165_toplantput-1,,Apurina,165_toplantput,-taka,-taka,t a k a,,,,,^- t a k a$,default,to put,-taka ‘to put’ (F00:653)
 Yine-165_toplantput-1,,Yine,165_toplantput,rɨ-tak-lɨ ,rɨ-tak-lɨ,r ɨ + t a k + l ɨ,,,,,^r ɨ - t a k - l ɨ$,default,,rɨ-tak-lɨ (N86:528)
 ProtoPurus-166_todig-1,,ProtoPurus,166_todig,*-sɨtu,sɨtu,s ɨ t u,,Carvalho2021,,,^s ɨ t u$,default,,
 Inapari-166_todig-1,,Inapari,166_todig,i-hɨtú-ma ,i-hɨtú-ma,i + h ɨ t ú/u + m a,,,,,^i - h ɨ t ú - m a$,default,,i-hɨtú-ma (P95:34)
@@ -596,22 +596,22 @@ Inapari-167_topeel-1,,Inapari,167_topeel,i-ʧaraa-má-ri ,i-ʧaraa-má-ri,i + t�
 Yine-167_topeel-1,,Yine,167_topeel,talha-lɨ ,talha-lɨ,t a lh/l̥ a + l ɨ,,,,,^t a lh a - l ɨ$,default,,talha-lɨ (N86:521)
 ProtoPurus-168_tohear-1,,ProtoPurus,168_tohear,*-kema,kema,k e m a,,Carvalho2021,,,^k e m a$,default,,
 Inapari-168_tohear-1,,Inapari,168_tohear,i-hama-má ,i-hama-má,i + h a m a + m á/a,,,,,^i - h a m a - m á$,default,,i-hama-má (P95:55)
-Apurina-168_tohear-1,,Apurina,168_tohear,-kema-ko ,-kema-ko,+ k e m a + k o,,,,,^ - k e m a - k o$,default,,-kema-ko (F00:649)
-Yine-168_tohear-1,,Yine,168_tohear,-çema / -çem-lɨ ,-çema,+ ç e m a,,,,,^ - ç e m a$,default,,"-çema, -çem-lɨ (N86:512)"
+Apurina-168_tohear-1,,Apurina,168_tohear,-kema-ko ,-kema-ko,k e m a + k o,,,,,^- k e m a - k o$,default,,-kema-ko (F00:649)
+Yine-168_tohear-1,,Yine,168_tohear,-çema / -çem-lɨ ,-çema,ç e m a,,,,,^- ç e m a$,default,,"-çema, -çem-lɨ (N86:512)"
 ProtoPurus-169_tosee-1,,ProtoPurus,169_tosee,*-eta,eta,e t a,,Carvalho2021,,,^e t a$,default,,
 Inapari-169_tosee-1,,Inapari,169_tosee,r-eʧá-ra-ma ,r-eʧá-ra-ma,r + e tʃ á/a + r a + m a,,,,,^r - e ʧ á - r a - m a$,default,,r-eʧá-ra-ma (P95:53)
-Apurina-169_tosee-1,,Apurina,169_tosee,-eta[ma] ,-eta[ma],+ e t a m a,,,,,^ - e t a [ m a ] $,default,,-eta[ma] (F00:654)
+Apurina-169_tosee-1,,Apurina,169_tosee,-eta[ma] ,-eta[ma],e t a m a,,,,,^- e t a [ m a ] $,default,,-eta[ma] (F00:654)
 Yine-169_tosee-1,,Yine,169_tosee,r-et-lɨ ,r-et-lɨ,r + e t + l ɨ,,,,,^r - e t - l ɨ$,default,,r-et-lɨ (N86:502)
 ProtoPurus-170_tolearn-1,,ProtoPurus,170_tolearn,*-ɨma-ta,ɨma-ta,ɨ m a + t a,,Carvalho2021,,,^ɨ m a - t a$,default,,
-Inapari-170_tolearn-1,,Inapari,170_tolearn,r-ɨma-ʧa- ,r-ɨma-ʧa-,r + ɨ m a + tʃ a +,,,,,^r - ɨ m a - ʧ a - $,default,,r-ɨma-ʧa- (P95:28)
-Yine-170_tolearn-1,,Yine,170_tolearn,r-ɨma-ta- ,r-ɨma-ta-,r + ɨ m a + t a +,,,,,^r - ɨ m a - t a - $,default,,r-ɨma-ta- (N86:367)
+Inapari-170_tolearn-1,,Inapari,170_tolearn,r-ɨma-ʧa- ,r-ɨma-ʧa-,r + ɨ m a + tʃ a,,,,,^r - ɨ m a - ʧ a -$,default,,r-ɨma-ʧa- (P95:28)
+Yine-170_tolearn-1,,Yine,170_tolearn,r-ɨma-ta- ,r-ɨma-ta-,r + ɨ m a + t a,,,,,^r - ɨ m a - t a -$,default,,r-ɨma-ta- (N86:367)
 ProtoPurus-171_tofear-1,,ProtoPurus,171_tofear,*-pika,pika,p i k a,,Carvalho2021,,,^p i k a$,default,,
 Inapari-171_tofear-1,,Inapari,171_tofear,i-piʔá-ma ,i-piʔá-ma,i + p i ʔ á/a + m a,,,,,^i - p i ʔ á - m a$,default,,i-piʔá-ma (P95:53)
-Apurina-171_tofear-1,,Apurina,171_tofear,-pika ,-pika,+ p i k a,,,,,^ - p i k a$,default,,-pika (F00:648)
-Yine-171_tofear-1,,Yine,171_tofear,-pika ,-pika,+ p i k a,,,,,^ - p i k a$,default,,-pika (N86:501)
+Apurina-171_tofear-1,,Apurina,171_tofear,-pika ,-pika,p i k a,,,,,^- p i k a$,default,,-pika (F00:648)
+Yine-171_tofear-1,,Yine,171_tofear,-pika ,-pika,p i k a,,,,,^- p i k a$,default,,-pika (N86:501)
 ProtoPurus-172_tosleep-1,,ProtoPurus,172_tosleep,*-ɨmaka,ɨmaka,ɨ m a k a,,Carvalho2021,,,^ɨ m a k a$,default,,
 Inapari-172_tosleep-1,,Inapari,172_tosleep,r-ɨmɨʔá-ma ,r-ɨmɨʔá-ma,r + ɨ m ɨ ʔ á/a + m a,,,,,^r - ɨ m ɨ ʔ á - m a$,default,,r-ɨmɨʔá-ma (P95:40)
-Apurina-172_tosleep-1,,Apurina,172_tosleep,-ɨmaka ,-ɨmaka,+ ɨ m a k a,,,,,^ - ɨ m a k a$,default,,-ɨmaka (F00:654)
+Apurina-172_tosleep-1,,Apurina,172_tosleep,-ɨmaka ,-ɨmaka,ɨ m a k a,,,,,^- ɨ m a k a$,default,,-ɨmaka (F00:654)
 Yine-172_tosleep-1,,Yine,172_tosleep,r-ɨmka ,r-ɨmka,r + ɨ m k a,,,,,^r - ɨ m k a$,default,,r-ɨmka (N86:430)
 ProtoPurus-173_toliedown-1,,ProtoPurus,173_toliedown,*-kurɨ-ha,kurɨ-ha,k u r ɨ + h a,,Carvalho2021,,,^k u r ɨ - h a$,default,,
 Inapari-173_toliedown-1,,Inapari,173_toliedown,rɨ-ʔuri-a-ma ,rɨ-ʔuri-a-ma,r ɨ + ʔ u r i + a + m a,,,,,^r ɨ - ʔ u r i - a - m a$,default,,rɨ-ʔuri-a-ma (P95:26)
@@ -621,7 +621,7 @@ Inapari-174_todie-1,,Inapari,174_todie,r-ɨpɨná-ma ,r-ɨpɨná-ma,r + ɨ p ɨ 
 Apurina-174_todie-1,,Apurina,174_todie,ɨpɨ̃-pe ,ɨpɨ̃-pe,ɨ p ɨ̃/ɨ̃ + p e,,,,,^ɨ p ɨ̃ - p e$,default,,ɨpɨ̃-pe (F00:647)
 Yine-174_todie-1,,Yine,174_todie,hipna-lɨ / r-ɨpna ,hipna-lɨ,h i p n a + l ɨ,,,,,^h i p n a - l ɨ$,default,,"hipna-lɨ, r-ɨpna (N86:504)"
 ProtoPurus-175_tokill-1,,ProtoPurus,175_tokill,*-hOka,hOka,h O/o k a,,Carvalho2021,,,^h O k a$,default,,
-Apurina-175_tokill-1,,Apurina,175_tokill,-oka ,-oka,+ o k a,,,,,^ - o k a$,default,,-oka (F00: 650)
+Apurina-175_tokill-1,,Apurina,175_tokill,-oka ,-oka,o k a,,,,,^- o k a$,default,,-oka (F00: 650)
 Yine-175_tokill-1,,Yine,175_tokill,rɨ-hka-lɨ ,rɨ-hka-lɨ,r ɨ + h k a + l ɨ,,,,,^r ɨ - h k a - l ɨ$,default,,rɨ-hka-lɨ (N86:222)
 ProtoPurus-176_tocook-1,,ProtoPurus,176_tocook,*-wara,wara,w a r a,,Carvalho2021,,,^w a r a$,default,,
 Inapari-176_tocook-1,,Inapari,176_tocook,rɨ-wara-má-ri ,rɨ-wara-má-ri,r ɨ + w a r a + m á/a + r i,,,,,^r ɨ - w a r a - m á - r i$,default,,rɨ-wara-má-ri (P95:64)
@@ -634,14 +634,14 @@ Inapari-178_togrind-1,,Inapari,178_togrind,juhi-rí ,juhi-rí,j u h i + r í/i,,
 Yine-178_togrind-1,,Yine,178_togrind,joç-rɨ ,joç-rɨ,j o ç + r ɨ,,,,,^j o ç - r ɨ$,default,,joç-rɨ (N86:503)
 ProtoPurus-179_tofetch-1,,ProtoPurus,179_tofetch,*-apa,apa,a p a,,Carvalho2021,,,^a p a$,default,,
 Inapari-179_tofetch-1,,Inapari,179_tofetch,r-apa-ʧí-má-ri ,r-apa-ʧí-má-ri,r + a p a + tʃ í/i + m á/a + r i,,,,,^r - a p a - ʧ í - m á - r i$,default,,r-apa-ʧí-má-ri (P95:49)
-Apurina-179_tofetch-1,,Apurina,179_tofetch,-apa ,-apa,+ a p a,,,,,^ - a p a$,default,,-apa (F00:384)
+Apurina-179_tofetch-1,,Apurina,179_tofetch,-apa ,-apa,a p a,,,,,^- a p a$,default,,-apa (F00:384)
 Yine-179_tofetch-1,,Yine,179_tofetch,r-apa-t-lɨ ,r-apa-t-lɨ,r + a p a + t + l ɨ,,,,,^r - a p a - t - l ɨ$,default,,r-apa-t-lɨ (N86:483)
 ProtoPurus-180_tosew-1,,ProtoPurus,180_tosew,*-jutsa-ha,jutsa-ha,j u ts a + h a,,Carvalho2021,,,^j u ts a - h a$,default,,
 Inapari-180_tosew-1,,Inapari,180_tosew,i-jutãã-rá-ma ,i-jutãã-rá-ma,i + j u t ãː + r á/a + m a,,,,,^i - j u t ãã - r á - m a$,default,,i-jutãã-rá-ma (P95:37)
 Yine-180_tosew-1,,Yine,180_tosew,jotsha-lɨ ,jotsha-lɨ,j o tsʰ a + l ɨ,,,,,^j o tsh a - l ɨ$,default,,jotsha-lɨ (N86:405)
 ProtoPurus-181_pregnant-1,,ProtoPurus,181_pregnant,*-mɨsi-,mɨsi,m ɨ s i,,Carvalho2021,,,^m ɨ s i$,default,,
 Inapari-181_pregnant-1,,Inapari,181_pregnant,amirú ,amirú,a m i r ú/u,,,,,^a m i r ú$,default,,amirú (P95:41)
-Apurina-181_pregnant-1,,Apurina,181_pregnant,-miʃi ,-miʃi,+ m i ʃ i,,,,,^ - m i ʃ i$,default,,-miʃi (F00:645)
+Apurina-181_pregnant-1,,Apurina,181_pregnant,-miʃi ,-miʃi,m i ʃ i,,,,,^- m i ʃ i$,default,,-miʃi (F00:645)
 Yine-181_pregnant-1,,Yine,181_pregnant,ka-mʃi-ro / mɨʃi-w-lɨ ,ka-mʃi-ro,k a + m ʃ i + r o,,,,,^k a - m ʃ i - r o$,default,,"ka-mʃi-ro, mɨʃi-w-lɨ (N86:433)"
 ProtoPurus-182_hungry-1,,ProtoPurus,182_hungry,*natsi,natsi,n a ts i,,Carvalho2021,,,^n a ts i$,default,,
 Inapari-182_hungry-1,,Inapari,182_hungry,natí ,natí,n a t í/i,,,,,^n a t í$,default,,natí (P95:46)
@@ -649,13 +649,13 @@ Apurina-182_hungry-1,,Apurina,182_hungry,naʧi ,naʧi,n a tʃ i,,,,,^n a ʧ i$,d
 Yine-182_hungry-1,,Yine,182_hungry,naʧi ,naʧi,n a tʃ i,,,,,^n a ʧ i$,default,,naʧi (N86:466)
 ProtoPurus-183_shy-1,,ProtoPurus,183_shy,*-pate-,pate,p a t e,,Carvalho2021,,,^p a t e$,default,,
 Inapari-183_shy-1,,Inapari,183_shy,a-pate-rí ,a-pate-rí,a + p a t e + r í/i,,,,,^a - p a t e - r í$,default,,a-pate-rí (P95:70)
-Apurina-183_shy-1,,Apurina,183_shy,-pate-ta ,-pate-ta,+ p a t e + t a,,,,,^ - p a t e - t a$,default,,-pate-ta (Fe13:98)
+Apurina-183_shy-1,,Apurina,183_shy,-pate-ta ,-pate-ta,p a t e + t a,,,,,^- p a t e - t a$,default,,-pate-ta (Fe13:98)
 Yine-183_shy-1,,Yine,183_shy,pate-wa-ta ,pate-wa-ta,p a t e + w a + t a,,,,,^p a t e - w a - t a$,default,,pate-wa-ta (N86:578)
 ProtoPurus-184_hot-1,,ProtoPurus,184_hot,*hame-,hame,h a m e,,Carvalho2021,,,^h a m e$,default,,
 Inapari-184_hot-1,,Inapari,184_hot,hame-má-ri ,hame-má-ri,h a m e + m á/a + r i,,,,,^h a m e - m á - r i$,default,,hame-má-ri (P95:32)
 Yine-184_hot-1,,Yine,184_hot,hame-t-lɨ ,hame-t-lɨ,h a m e + t + l ɨ,,,,,^h a m e - t - l ɨ$,default,,hame-t-lɨ (N86:385–86)
 ProtoPurus-185_cold-1,,ProtoPurus,185_cold,*ka-ʧikare,ka-ʧikare,k a + tʃ i k a r e,,Carvalho2021,,,^k a - ʧ i k a r e$,default,,
-Apurina-185_cold-1,,Apurina,185_cold,-ʧĩkare ,-ʧĩkare,+ tʃ ĩ k a r e,,,,,^ - ʧ ĩ k a r e$,default,,-ʧĩkare (Fe13:56)
+Apurina-185_cold-1,,Apurina,185_cold,-ʧĩkare ,-ʧĩkare,tʃ ĩ k a r e,,,,,^- ʧ ĩ k a r e$,default,,-ʧĩkare (Fe13:56)
 Yine-185_cold-1,,Yine,185_cold,ka-ʧikle-rɨ ,ka-ʧikle-rɨ,k a + tʃ i k l e + r ɨ,,,,,^k a - ʧ i k l e - r ɨ$,default,,ka-ʧikle-rɨ (N86:457)
 ProtoPurus-185_cold-2,,ProtoPurus,185_cold,*ka-ʧikare,ka-ʧikare,k a + tʃ i k a r e,,Carvalho2021,,,^k a - ʧ i k a r e$,default,,
 Apurina-185_cold-2,,Apurina,185_cold,ka-ʧĩka-re-rɨ ,ka-ʧĩka-re-rɨ,k a + tʃ ĩ k a + r e + r ɨ,,,,,^k a - ʧ ĩ k a - r e - r ɨ$,default,,ka-ʧĩka-re-rɨ (BF07:125)
@@ -688,45 +688,45 @@ ProtoPurus-194_three-1,,ProtoPurus,194_three,*mapa,mapa,m a p a,,Carvalho2021,,,
 Inapari-194_three-1,,Inapari,194_three,mapá ,mapá,m a p á/a,,,,,^m a p á$,default,,mapá (P95:69)
 Yine-194_three-1,,Yine,194_three,mapa ,mapa,m a p a,,,,,^m a p a$,default,,mapa (P95:572)
 ProtoPurus-195_clliquid-1,,ProtoPurus,195_clliquid,*-ha,ha,h a,,Carvalho2021,,,^h a$,default,,
-Inapari-195_clliquid-1,,Inapari,195_clliquid,ã- ,ã-,ã +,,,,,^ã - $,default,,ã- (P95:49)
-Apurina-195_clliquid-1,,Apurina,195_clliquid,-ã ,-ã,+ ã,,,,,^ - ã$,default,,-ã (F00:175)
+Inapari-195_clliquid-1,,Inapari,195_clliquid,ã- ,ã-,ã,,,,,^ã -$,default,,ã- (P95:49)
+Apurina-195_clliquid-1,,Apurina,195_clliquid,-ã ,-ã,ã,,,,,^- ã$,default,,-ã (F00:175)
 Yine-195_clliquid-1,,Yine,195_clliquid,hi-ha ,hi-ha,h i + h a,,,,,^h i - h a$,default,,hi-ha (N86:357)
 ProtoPurus-196_clcylindrical-1,,ProtoPurus,196_clcylindrical,*-pi,pi,p i,,Carvalho2021,,,^p i$,default,,
-Inapari-196_clcylindrical-1,,Inapari,196_clcylindrical,-pi ,-pi,+ p i,,,,,^ - p i$,default,,-pi (P95:189)
-Yine-196_clcylindrical-1,,Yine,196_clcylindrical,-pi ,-pi,+ p i,,,,,^ - p i$,default,,-pi (H10:179–80)
+Inapari-196_clcylindrical-1,,Inapari,196_clcylindrical,-pi ,-pi,p i,,,,,^- p i$,default,,-pi (P95:189)
+Yine-196_clcylindrical-1,,Yine,196_clcylindrical,-pi ,-pi,p i,,,,,^- p i$,default,,-pi (H10:179–80)
 ProtoPurus-197_gendermasc-1,,ProtoPurus,197_gendermasc,*-rɨ,rɨ,r ɨ,,Carvalho2021,,,^r ɨ$,default,,
-Inapari-197_gendermasc-1,,Inapari,197_gendermasc,-rɨ ,-rɨ,+ r ɨ,,,,,^ - r ɨ$,default,,-rɨ (P95:191)
-Apurina-197_gendermasc-1,,Apurina,197_gendermasc,-rɨ ,-rɨ,+ r ɨ,,,,,^ - r ɨ$,default,,-rɨ (F00:218)
-Yine-197_gendermasc-1,,Yine,197_gendermasc,-rɨ ~ -lɨ ,-rɨ,+ r ɨ,,,,,^ - r ɨ$,default,,-rɨ ~ -lɨ (H10:34–35)
+Inapari-197_gendermasc-1,,Inapari,197_gendermasc,-rɨ ,-rɨ,r ɨ,,,,,^- r ɨ$,default,,-rɨ (P95:191)
+Apurina-197_gendermasc-1,,Apurina,197_gendermasc,-rɨ ,-rɨ,r ɨ,,,,,^- r ɨ$,default,,-rɨ (F00:218)
+Yine-197_gendermasc-1,,Yine,197_gendermasc,-rɨ ~ -lɨ ,-rɨ,r ɨ,,,,,^- r ɨ$,default,,-rɨ ~ -lɨ (H10:34–35)
 ProtoPurus-198_genderfem-1,,ProtoPurus,198_genderfem,*-ro,ro,r o,,Carvalho2021,,,^r o$,default,,
-Inapari-198_genderfem-1,,Inapari,198_genderfem,-ro ,-ro,+ r o,,,,,^ - r o$,default,,-ro (P95:191)
-Apurina-198_genderfem-1,,Apurina,198_genderfem,-ro ,-ro,+ r o,,,,,^ - r o$,default,,-ro (F00:218)
-Yine-198_genderfem-1,,Yine,198_genderfem,-ro ~ -lo ,-ro,+ r o,,,,,^ - r o$,default,,-ro ~ -lo (H10:34–35)
+Inapari-198_genderfem-1,,Inapari,198_genderfem,-ro ,-ro,r o,,,,,^- r o$,default,,-ro (P95:191)
+Apurina-198_genderfem-1,,Apurina,198_genderfem,-ro ,-ro,r o,,,,,^- r o$,default,,-ro (F00:218)
+Yine-198_genderfem-1,,Yine,198_genderfem,-ro ~ -lo ,-ro,r o,,,,,^- r o$,default,,-ro ~ -lo (H10:34–35)
 ProtoPurus-199_progressive-1,,ProtoPurus,199_progressive,*-nanɨ,nanɨ,n a n ɨ,,Carvalho2021,,,^n a n ɨ$,default,,
-Apurina-199_progressive-1,,Apurina,199_progressive,-nanɨ ,-nanɨ,+ n a n ɨ,,,,,^ - n a n ɨ$,default,,-nanɨ (F00: 314)
-Yine-199_progressive-1,,Yine,199_progressive,-nanɨ ,-nanɨ,+ n a n ɨ,,,,,^ - n a n ɨ$,default,,-nanɨ (H10:81)
+Apurina-199_progressive-1,,Apurina,199_progressive,-nanɨ ,-nanɨ,n a n ɨ,,,,,^- n a n ɨ$,default,,-nanɨ (F00: 314)
+Yine-199_progressive-1,,Yine,199_progressive,-nanɨ ,-nanɨ,n a n ɨ,,,,,^- n a n ɨ$,default,,-nanɨ (H10:81)
 ProtoPurus-200_iterative-1,,ProtoPurus,200_iterative,*-naka,naka,n a k a,,Carvalho2021,,,^n a k a$,default,,
-Inapari-200_iterative-1,,Inapari,200_iterative,-naʔa ,-naʔa,+ n a ʔ a,,,,,^ - n a ʔ a$,default,,-naʔa (P95:196)
-Yine-200_iterative-1,,Yine,200_iterative,-t-naka ,-t-naka,+ t + n a k a,,,,,^ - t - n a k a$,default,,-t-naka (H10:247)
+Inapari-200_iterative-1,,Inapari,200_iterative,-naʔa ,-naʔa,n a ʔ a,,,,,^- n a ʔ a$,default,,-naʔa (P95:196)
+Yine-200_iterative-1,,Yine,200_iterative,-t-naka ,-t-naka,t + n a k a,,,,,^- t - n a k a$,default,,-t-naka (H10:247)
 ProtoPurus-201_intensive-1,,ProtoPurus,201_intensive,*-jaka,jaka,j a k a,,Carvalho2021,,,^j a k a$,default,,
-Inapari-201_intensive-1,,Inapari,201_intensive,-jaʔa ,-jaʔa,+ j a ʔ a,,,,,^ - j a ʔ a$,default,,-jaʔa (P95:201)
+Inapari-201_intensive-1,,Inapari,201_intensive,-jaʔa ,-jaʔa,j a ʔ a,,,,,^- j a ʔ a$,default,,-jaʔa (P95:201)
 Yine-201_intensive-1,,Yine,201_intensive,jaka ,jaka,j a k a,,,,,^j a k a$,default,,jaka (H10:84)
 ProtoPurus-202_intensifier-1,,ProtoPurus,202_intensifier,*-putɨ,putɨ,p u t ɨ,,Carvalho2021,,,^p u t ɨ$,default,,
-Inapari-202_intensifier-1,,Inapari,202_intensifier,-puʧi ,-puʧi,+ p u tʃ i,,,,,^ - p u ʧ i$,default,,-puʧi (P95:201)
+Inapari-202_intensifier-1,,Inapari,202_intensifier,-puʧi ,-puʧi,p u tʃ i,,,,,^- p u ʧ i$,default,,-puʧi (P95:201)
 Yine-202_intensifier-1,,Yine,202_intensifier,potɨ ,potɨ,p o t ɨ,,,,,^p o t ɨ$,default,,potɨ (H10:79)
 ProtoPurus-203_causverblzr-1,,ProtoPurus,203_causverblzr,*ka-,ka,k a,,Carvalho2021,,,^k a$,default,,
-Inapari-203_causverblzr-1,,Inapari,203_causverblzr,a- ,a-,a +,,,,,^a - $,default,,a- (see 5.5)
-Apurina-203_causverblzr-1,,Apurina,203_causverblzr,ka- ,ka-,k a +,,,,,^k a - $,default,,ka- (F00:336–37)
-Yine-203_causverblzr-1,,Yine,203_causverblzr,ka- ,ka-,k a +,,,,,^k a - $,default,,ka- (H10:97)
+Inapari-203_causverblzr-1,,Inapari,203_causverblzr,a- ,a-,a,,,,,^a -$,default,,a- (see 5.5)
+Apurina-203_causverblzr-1,,Apurina,203_causverblzr,ka- ,ka-,k a,,,,,^k a -$,default,,ka- (F00:336–37)
+Yine-203_causverblzr-1,,Yine,203_causverblzr,ka- ,ka-,k a,,,,,^k a -$,default,,ka- (H10:97)
 ProtoPurus-204_adjectivizer-1,,ProtoPurus,204_adjectivizer,*pO-,pO,p O/o,,Carvalho2021,,,^p O$,default,,
-Inapari-204_adjectivizer-1,,Inapari,204_adjectivizer,*po-/*pu- ,*po-,p o +,,,,,^* p o - $,default,,*po-/*pu- (4.2.6.2)
-Apurina-204_adjectivizer-1,,Apurina,204_adjectivizer,*po- ,*po-,p o +,,,,,^* p o - $,default,,*po- (4.2.5.2)
-Yine-204_adjectivizer-1,,Yine,204_adjectivizer,po- ,po-,p o +,,,,,^p o - $,default,,po- (H10:101)
+Inapari-204_adjectivizer-1,,Inapari,204_adjectivizer,*po-/*pu- ,*po-,p o,,,,,^* p o -$,default,,*po-/*pu- (4.2.6.2)
+Apurina-204_adjectivizer-1,,Apurina,204_adjectivizer,*po- ,*po-,p o,,,,,^* p o -$,default,,*po- (4.2.5.2)
+Yine-204_adjectivizer-1,,Yine,204_adjectivizer,po- ,po-,p o,,,,,^p o -$,default,,po- (H10:101)
 ProtoPurus-205_verbalizer-1,,ProtoPurus,205_verbalizer,*-ta,ta,t a,,Carvalho2021,,,^t a$,default,,
-Inapari-205_verbalizer-1,,Inapari,205_verbalizer,-ʧa[hi],-ʧa[hi],,,,,,^ -ʧa[hi] $,default,causative,-ʧa[hi] ‘causative’ (P95:201)
-Apurina-205_verbalizer-1,,Apurina,205_verbalizer,-ta,-ta,+ t a,,,,,^ - t a$,default,verbalizer,-ta ‘verbalizer’ (F00:324)
-Yine-205_verbalizer-1,,Yine,205_verbalizer,-ta,-ta,+ t a,,,,,^ - t a$,default,verb stem closure,-ta ‘verb stem closure’ (H10:206)
+Inapari-205_verbalizer-1,,Inapari,205_verbalizer,-ʧa[hi],-ʧa[hi],tʃ a h i,,,,,^- ʧ a [ h i ] $,default,causative,-ʧa[hi] ‘causative’ (P95:201)
+Apurina-205_verbalizer-1,,Apurina,205_verbalizer,-ta,-ta,t a,,,,,^- t a$,default,verbalizer,-ta ‘verbalizer’ (F00:324)
+Yine-205_verbalizer-1,,Yine,205_verbalizer,-ta,-ta,t a,,,,,^- t a$,default,verb stem closure,-ta ‘verb stem closure’ (H10:206)
 ProtoPurus-206_absolute-1,,ProtoPurus,206_absolute,*-tsi,tsi,ts i,,Carvalho2021,,,^ts i$,default,,
-Inapari-206_absolute-1,,Inapari,206_absolute,-ti ,-ti,+ t i,,,,,^ - t i$,default,,-ti (P95:187)
-Apurina-206_absolute-1,,Apurina,206_absolute,-ʧi ,-ʧi,+ tʃ i,,,,,^ - ʧ i$,default,,-ʧi (F00:236)
-Yine-206_absolute-1,,Yine,206_absolute,-ʧi ,-ʧi,+ tʃ i,,,,,^ - ʧ i$,default,,-ʧi (H10:118)
+Inapari-206_absolute-1,,Inapari,206_absolute,-ti ,-ti,t i,,,,,^- t i$,default,,-ti (P95:187)
+Apurina-206_absolute-1,,Apurina,206_absolute,-ʧi ,-ʧi,tʃ i,,,,,^- ʧ i$,default,,-ʧi (F00:236)
+Yine-206_absolute-1,,Yine,206_absolute,-ʧi ,-ʧi,tʃ i,,,,,^- ʧ i$,default,,-ʧi (H10:118)

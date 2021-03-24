@@ -14,12 +14,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/carvalhopurus/",
-            "dc:created": "2a90c71"
+            "dc:created": "73f39a1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog/",
             "dc:created": "v4.3"
         },
         {
@@ -32,13 +32,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.7"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",
