@@ -46,13 +46,13 @@ Yine-11_bone-1,,Yine,11_bone,hi-hapɨ ,hi-hapɨ,h i + h a p ɨ,,,,,^h i - h a p 
 ProtoPurus-12_back-1,,ProtoPurus,12_back,*-takɨ,takɨ,t a k ɨ,,Carvalho2021,,,^t a k ɨ$,default,,
 Inapari-12_back-1,,Inapari,12_back,ʧahɨ́-ti ,ʧahɨ́-ti,tʃ a h ɨ́/ɨ + t i,,,,,^ʧ a h ɨ́ - t i$,default,,ʧahɨ́-ti (P95:42)
 Yine-12_back-1,,Yine,12_back,hi-tçi ,hi-tçi,h i + t ç i,,,,,^h i - t ç i$,default,,hi-tçi (N86:66)
-ProtoPurus-14_breast-1,,ProtoPurus,14_breast,*-tenɨ,tenɨ,t e n ɨ,,Carvalho2021,,,^t e n ɨ$,default,,
-Inapari-14_breast-1,,Inapari,14_breast,-ʧini ,-ʧini,tʃ i n i,,,,,^- ʧ i n i$,default,,-ʧini (P95:65)
-Apurina-14_breast-1,,Apurina,14_breast,-tenɨ ,-tenɨ,t e n ɨ,,,,,^- t e n ɨ$,default,,-tenɨ (F00:646)
-Yine-14_breast-1,,Yine,14_breast,tnɨ-ʧi ,tnɨ-ʧi,t n ɨ + tʃ i,,,,,^t n ɨ - ʧ i$,default,,tnɨ-ʧi (N86:567)
-ProtoPurus-14_breast-2,,ProtoPurus,14_breast,*-tenɨ-kɨ,tenɨ-kɨ,t e n ɨ + k ɨ,,Carvalho2021,,,^t e n ɨ - k ɨ$,default,,
-Inapari-14_breast-2,,Inapari,14_breast,ʧiní-hɨ-ti ,ʧiní-hɨ-ti,tʃ i n í/i + h ɨ + t i,,,,,^ʧ i n í - h ɨ - t i$,default,,ʧiní-hɨ-ti (P95:65)
-Apurina-14_breast-2,,Apurina,14_breast,-tenɨ-kɨ ,-tenɨ-kɨ,t e n ɨ + k ɨ,,,,,^- t e n ɨ - k ɨ$,default,,-tenɨ-kɨ (F00:172)
+ProtoPurus-13_breast-1,,ProtoPurus,13_breast,*-tenɨ,tenɨ,t e n ɨ,,Carvalho2021,,,^t e n ɨ$,default,,
+Inapari-13_breast-1,,Inapari,13_breast,-ʧini ,-ʧini,tʃ i n i,,,,,^- ʧ i n i$,default,,-ʧini (P95:65)
+Apurina-13_breast-1,,Apurina,13_breast,-tenɨ ,-tenɨ,t e n ɨ,,,,,^- t e n ɨ$,default,,-tenɨ (F00:646)
+Yine-13_breast-1,,Yine,13_breast,tnɨ-ʧi ,tnɨ-ʧi,t n ɨ + tʃ i,,,,,^t n ɨ - ʧ i$,default,,tnɨ-ʧi (N86:567)
+ProtoPurus-13_breast-2,,ProtoPurus,13_breast,*-tenɨ-kɨ,tenɨ-kɨ,t e n ɨ + k ɨ,,Carvalho2021,,,^t e n ɨ - k ɨ$,default,,
+Inapari-13_breast-2,,Inapari,13_breast,ʧiní-hɨ-ti ,ʧiní-hɨ-ti,tʃ i n í/i + h ɨ + t i,,,,,^ʧ i n í - h ɨ - t i$,default,,ʧiní-hɨ-ti (P95:65)
+Apurina-13_breast-2,,Apurina,13_breast,-tenɨ-kɨ ,-tenɨ-kɨ,t e n ɨ + k ɨ,,,,,^- t e n ɨ - k ɨ$,default,,-tenɨ-kɨ (F00:172)
 ProtoPurus-15_chest-1,,ProtoPurus,15_chest,*-turu-,turu,t u r u,,Carvalho2021,,,^t u r u$,default,,
 Inapari-15_chest-1,,Inapari,15_chest,turú-ʧa-ti ,turú-ʧa-ti,t u r ú/u + tʃ a + t i,,,,,^t u r ú - ʧ a - t i$,default,,turú-ʧa-ti (P95:58)
 Apurina-15_chest-1,,Apurina,15_chest,-toro-ta ,-toro-ta,t o r o + t a,,,,,^- t o r o - t a$,default,,-toro-ta (Fr17:345)

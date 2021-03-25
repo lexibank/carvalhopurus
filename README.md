@@ -6,11 +6,14 @@ Cite the source dataset as
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Carvalho-2021-206](https://concepticon.clld.org/contributions/Carvalho-2021-206)
 ## Statistics
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 87%](https://img.shields.io/badge/Concepticon-87%25-yellowgreen.svg "Concepticon: 87%")
 ![Source: 29%](https://img.shields.io/badge/Source-29%25-red.svg "Source: 29%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
