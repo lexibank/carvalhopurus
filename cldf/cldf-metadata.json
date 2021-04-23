@@ -17,12 +17,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/carvalhopurus/",
-            "dc:created": "696fb58"
+            "dc:created": "3bf683e"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.3"
         },
         {
