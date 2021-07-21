@@ -1,5 +1,7 @@
 # CLDF dataset derived from de Carvalho's "Comparative reconstruction of Proto-Purus" from 2021
 
+[![CLDF validation](https://github.com/lexibank/carvalhopurus/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/carvalhopurus/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -18,6 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/carvalhopurus/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/carvalhopurus/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 87%](https://img.shields.io/badge/Concepticon-87%25-yellowgreen.svg "Concepticon: 87%")
 ![Source: 29%](https://img.shields.io/badge/Source-29%25-red.svg "Source: 29%")
