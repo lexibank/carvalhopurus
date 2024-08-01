@@ -22,6 +22,7 @@ class Dataset(pylexibank.Dataset):
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
     form_spec = pylexibank.FormSpec(separators="~/", first_form_only=True, missing_data=[("-")])
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
         """
